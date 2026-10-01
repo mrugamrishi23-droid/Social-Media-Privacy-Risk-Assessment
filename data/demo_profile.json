@@ -1,0 +1,15 @@
+{
+  "profile_visibility":"PUBLIC",
+  "phone_public":true,
+  "email_public":false,
+  "birthday_public":true,
+  "location_public":true,
+  "real_time_checkins":true,
+  "travel_plans":"PUBLIC",
+  "unknown_requests":"OFTEN",
+  "tag_review_enabled":false,
+  "mfa_enabled":false,
+  "login_alerts_enabled":false,
+  "third_party_apps_reviewed":false,
+  "old_posts_reviewed":"NEVER"
+}

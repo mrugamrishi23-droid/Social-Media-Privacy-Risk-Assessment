@@ -1,0 +1,8 @@
+<!doctype html><html><head><meta charset="utf-8"><title>Privacy Assessment Report</title><link rel="stylesheet" href="/css/style.css"></head>
+<body><main class="container report"><h1>Social Media Privacy Risk Assessment Report</h1>
+<p><strong>Assessment ID:</strong> {{data.assessment_id}}</p><p><strong>Date:</strong> {{data.created_at}}</p>
+<div class="score">{{data.overall_score}}/100 <small>{{data.risk_level}}</small></div>
+<h2>Category Scores</h2><table><tr><th>Category</th><th>Score</th></tr>{% for k,v in data.category_scores.items() %}<tr><td>{{k}}</td><td>{{v}}</td></tr>{% endfor %}</table>
+<h2>Top Findings</h2><ul>{% for f in data.findings %}<li><strong>{{f.severity}}:</strong> {{f.description}}</li>{% endfor %}</ul>
+<h2>Privacy Checklist</h2><ul><li>Review profile visibility</li><li>Review contact and birthday visibility</li><li>Review location sharing</li><li>Enable MFA</li><li>Review connected applications</li><li>Review old public posts</li></ul>
+<p class="notice">This report contains no sensitive personal information. Educational framework only.</p><button onclick="window.print()" class="button">Print / Save as PDF</button></main></body></html>

@@ -1,0 +1,25 @@
+CURRENT: {'overall_score': 66, 'risk_level': 'HIGH', 'category_scores': {'profile': 70, 'personal_info': 39, 'location': 76, 'content': 68, 'connections': 67, 'tagging': 59, 'account_security': 72, 'third_party_apps': 70, 'social_engineering': 72, 'digital_footprint': 67}}
+FINDINGS:
+- CRITICAL Real-time location sharing
+- CRITICAL Verification-code sharing risk
+- CRITICAL Password reuse reported
+- CRITICAL MFA disabled
+- HIGH Public phone number
+- HIGH Unknown connections accepted
+- HIGH Public full birthday
+- HIGH Tag review disabled
+- HIGH Privacy settings not reviewed regularly
+- HIGH Travel plans exposed
+IMPROVED: {'overall_score': 48, 'risk_level': 'HIGH', 'category_scores': {'profile': 70, 'personal_info': 13, 'location': 59, 'content': 52, 'connections': 33, 'tagging': 39, 'account_security': 52, 'third_party_apps': 52, 'social_engineering': 72, 'digital_footprint': 51}}
+RISK REDUCTION: 18 points
+
+Spreadsheet runtime warmup failed during python startup
+Traceback (most recent call last):
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/patches/warm_spreadsheet_runtime_on_startup.py", line 26, in warm_spreadsheet_runtime_on_startup
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/spreadsheet_warmup.py", line 785, in warm_spreadsheet_runtime
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/spreadsheet_warmup.py", line 720, in _warm_feature_flows
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/spreadsheet_warmup.py", line 704, in _warm_collaboration_flows
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/generated/interface/models.py", line 32317, in hydrate_crdt_from_proto
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/rpc/remote.py", line 749, in __call__
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/rpc/client.py", line 150, in call
+artifact_tool.rpc.client.RemoteError: hydrateCrdtFromProto requires an empty collaborative document.

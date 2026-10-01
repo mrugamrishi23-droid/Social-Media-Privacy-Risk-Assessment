@@ -1,0 +1,51 @@
+
+Spreadsheet runtime warmup failed during python startup
+Traceback (most recent call last):
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/patches/warm_spreadsheet_runtime_on_startup.py", line 26, in warm_spreadsheet_runtime_on_startup
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/spreadsheet_warmup.py", line 785, in warm_spreadsheet_runtime
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/spreadsheet_warmup.py", line 720, in _warm_feature_flows
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/spreadsheet_warmup.py", line 704, in _warm_collaboration_flows
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/generated/interface/models.py", line 32317, in hydrate_crdt_from_proto
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/rpc/remote.py", line 749, in __call__
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/rpc/client.py", line 150, in call
+artifact_tool.rpc.client.RemoteError: hydrateCrdtFromProto requires an empty collaborative document.
+test_01_fully_private (test_assessment.TestPrivacyFramework.test_01_fully_private) ... ok
+test_02_public_profile (test_assessment.TestPrivacyFramework.test_02_public_profile) ... ok
+test_03_public_phone (test_assessment.TestPrivacyFramework.test_03_public_phone) ... ok
+test_04_public_email (test_assessment.TestPrivacyFramework.test_04_public_email) ... ok
+test_05_public_birthday (test_assessment.TestPrivacyFramework.test_05_public_birthday) ... ok
+test_06_public_location (test_assessment.TestPrivacyFramework.test_06_public_location) ... ok
+test_07_realtime_checkins (test_assessment.TestPrivacyFramework.test_07_realtime_checkins) ... ok
+test_08_travel_plans (test_assessment.TestPrivacyFramework.test_08_travel_plans) ... ok
+test_09_workplace (test_assessment.TestPrivacyFramework.test_09_workplace) ... ok
+test_10_education (test_assessment.TestPrivacyFramework.test_10_education) ... ok
+test_11_public_posts (test_assessment.TestPrivacyFramework.test_11_public_posts) ... ok
+test_12_unknown_connections (test_assessment.TestPrivacyFramework.test_12_unknown_connections) ... ok
+test_13_tag_review_disabled (test_assessment.TestPrivacyFramework.test_13_tag_review_disabled) ... ok
+test_14_mfa_disabled (test_assessment.TestPrivacyFramework.test_14_mfa_disabled) ... ok
+test_15_login_alerts_disabled (test_assessment.TestPrivacyFramework.test_15_login_alerts_disabled) ... ok
+test_16_password_reuse (test_assessment.TestPrivacyFramework.test_16_password_reuse) ... ok
+test_17_apps_unreviewed (test_assessment.TestPrivacyFramework.test_17_apps_unreviewed) ... ok
+test_18_link_awareness (test_assessment.TestPrivacyFramework.test_18_link_awareness) ... ok
+test_19_old_posts (test_assessment.TestPrivacyFramework.test_19_old_posts) ... ok
+test_20_settings_never_reviewed (test_assessment.TestPrivacyFramework.test_20_settings_never_reviewed) ... ok
+test_21_category_count (test_assessment.TestPrivacyFramework.test_21_category_count) ... ok
+test_22_score_range (test_assessment.TestPrivacyFramework.test_22_score_range) ... ok
+test_23_boundary_20 (test_assessment.TestPrivacyFramework.test_23_boundary_20) ... ok
+test_24_boundary_40 (test_assessment.TestPrivacyFramework.test_24_boundary_40) ... ok
+test_25_boundary_70 (test_assessment.TestPrivacyFramework.test_25_boundary_70) ... ok
+test_26_boundary_71 (test_assessment.TestPrivacyFramework.test_26_boundary_71) ... ok
+test_27_findings (test_assessment.TestPrivacyFramework.test_27_findings) ... ok
+test_28_recommendations (test_assessment.TestPrivacyFramework.test_28_recommendations) ... ok
+test_29_simulation_reduces_risk (test_assessment.TestPrivacyFramework.test_29_simulation_reduces_risk) ... ok
+test_30_validation_missing (test_assessment.TestPrivacyFramework.test_30_validation_missing) ... ok
+test_31_validation_bad_choice (test_assessment.TestPrivacyFramework.test_31_validation_bad_choice) ... ok
+test_32_validation_bad_bool (test_assessment.TestPrivacyFramework.test_32_validation_bad_bool) ... ok
+test_33_weights_total (test_assessment.TestPrivacyFramework.test_33_weights_total) ... ok
+test_34_no_sensitive_fields_in_base (test_assessment.TestPrivacyFramework.test_34_no_sensitive_fields_in_base) ... ok
+test_35_recommendation_priority (test_assessment.TestPrivacyFramework.test_35_recommendation_priority) ... ok
+
+----------------------------------------------------------------------
+Ran 35 tests in 0.002s
+
+OK

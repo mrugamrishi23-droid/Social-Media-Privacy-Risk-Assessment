@@ -1,0 +1,1001 @@
+profile_id,profile_visibility,phone_public,email_public,birthday_public,location_public,workplace_public,education_public,relationship_public,posts_public,location_tagging,travel_posts,unknown_connections,tag_review_enabled,third_party_apps_reviewed,mfa_enabled,login_alerts_enabled,password_reuse_reported,suspicious_link_awareness,old_posts_reviewed,privacy_settings_reviewed,risk_score,risk_level
+SYN-0001,FRIENDS,False,False,False,False,False,True,True,False,True,False,SOMETIMES,False,False,True,False,False,RARELY,REGULARLY,SOMETIMES,35,MODERATE
+SYN-0002,PUBLIC,False,False,True,False,True,False,False,True,False,False,RARELY,False,False,False,False,False,RARELY,REGULARLY,NEVER,30,MODERATE
+SYN-0003,PUBLIC,False,False,True,False,False,False,False,False,False,False,SOMETIMES,True,True,False,True,False,NEVER,SOMETIMES,REGULARLY,20,LOW
+SYN-0004,PRIVATE,True,True,False,False,True,True,True,False,True,True,NEVER,False,False,False,False,True,SOMETIMES,SOMETIMES,NEVER,37,MODERATE
+SYN-0005,PRIVATE,False,True,False,False,False,False,False,False,False,False,NEVER,True,True,False,True,False,RARELY,REGULARLY,REGULARLY,19,LOW
+SYN-0006,PUBLIC,False,False,True,False,False,False,False,False,False,False,RARELY,True,False,False,False,False,OFTEN,SOMETIMES,NEVER,27,MODERATE
+SYN-0007,PRIVATE,True,True,False,True,False,False,False,False,True,False,NEVER,True,False,False,False,True,RARELY,REGULARLY,SOMETIMES,30,MODERATE
+SYN-0008,PRIVATE,False,True,False,False,True,False,False,False,False,False,SOMETIMES,False,False,True,False,False,RARELY,REGULARLY,SOMETIMES,24,MODERATE
+SYN-0009,PUBLIC,False,True,True,False,False,False,False,False,False,True,RARELY,False,False,True,True,False,RARELY,NEVER,SOMETIMES,28,MODERATE
+SYN-0010,PRIVATE,True,False,False,False,False,False,True,False,False,True,RARELY,False,False,False,False,False,SOMETIMES,REGULARLY,REGULARLY,28,MODERATE
+SYN-0011,FRIENDS,True,False,True,False,True,False,True,True,False,False,RARELY,False,False,True,True,True,RARELY,REGULARLY,REGULARLY,25,MODERATE
+SYN-0012,FRIENDS,False,False,True,False,False,False,False,False,False,False,NEVER,False,False,False,True,True,RARELY,REGULARLY,NOT SURE,27,MODERATE
+SYN-0013,PUBLIC,False,False,False,False,True,True,False,False,False,False,RARELY,False,True,True,False,True,RARELY,NEVER,SOMETIMES,22,MODERATE
+SYN-0014,PUBLIC,False,False,True,False,True,True,False,True,False,False,RARELY,False,True,False,False,True,NEVER,NEVER,SOMETIMES,29,MODERATE
+SYN-0015,FRIENDS,True,False,False,False,False,True,False,False,False,True,NEVER,False,False,True,False,True,RARELY,REGULARLY,REGULARLY,27,MODERATE
+SYN-0016,PUBLIC,False,False,False,False,True,False,False,False,False,False,NEVER,False,True,False,False,False,NEVER,REGULARLY,NEVER,25,MODERATE
+SYN-0017,PUBLIC,False,True,False,False,False,False,False,True,True,True,NEVER,False,False,False,False,False,RARELY,NEVER,NEVER,30,MODERATE
+SYN-0018,PRIVATE,False,False,False,False,True,False,False,False,False,False,RARELY,False,False,False,True,False,RARELY,REGULARLY,SOMETIMES,22,MODERATE
+SYN-0019,PRIVATE,False,False,False,False,True,False,False,False,False,False,SOMETIMES,False,False,False,True,True,SOMETIMES,REGULARLY,NEVER,20,LOW
+SYN-0020,FRIENDS,False,False,True,False,False,False,False,False,False,True,OFTEN,False,False,False,True,False,RARELY,NOT SURE,NEVER,30,MODERATE
+SYN-0021,PUBLIC,False,False,True,False,False,False,False,False,False,True,RARELY,True,True,False,True,True,RARELY,NEVER,REGULARLY,32,MODERATE
+SYN-0022,FRIENDS,False,True,False,True,False,False,False,False,True,False,NEVER,False,False,False,False,False,RARELY,REGULARLY,SOMETIMES,24,MODERATE
+SYN-0023,PUBLIC,False,False,False,True,False,False,False,False,False,False,NEVER,False,False,False,False,True,RARELY,SOMETIMES,REGULARLY,28,MODERATE
+SYN-0024,PUBLIC,False,False,False,False,False,True,False,False,False,True,NEVER,True,True,False,False,False,NEVER,REGULARLY,REGULARLY,24,MODERATE
+SYN-0025,FRIENDS,False,False,False,False,True,False,True,True,False,False,NEVER,False,False,False,False,False,NEVER,REGULARLY,SOMETIMES,25,MODERATE
+SYN-0026,FRIENDS,False,False,False,True,False,False,True,True,True,False,RARELY,False,False,False,True,False,RARELY,SOMETIMES,NEVER,28,MODERATE
+SYN-0027,FRIENDS,False,False,False,True,False,False,True,False,False,True,RARELY,False,False,True,False,False,NEVER,NEVER,REGULARLY,27,MODERATE
+SYN-0028,PUBLIC,False,True,False,False,False,False,True,True,False,False,RARELY,True,True,False,False,False,RARELY,NEVER,REGULARLY,30,MODERATE
+SYN-0029,PUBLIC,False,True,False,True,True,False,True,True,False,False,NEVER,False,False,False,False,False,NEVER,SOMETIMES,REGULARLY,29,MODERATE
+SYN-0030,PUBLIC,False,False,False,False,False,True,False,False,False,False,NEVER,False,True,True,False,False,NEVER,NOT SURE,NEVER,25,MODERATE
+SYN-0031,FRIENDS,False,True,True,False,False,False,False,False,False,False,NEVER,False,False,True,True,True,NEVER,SOMETIMES,SOMETIMES,29,MODERATE
+SYN-0032,FRIENDS,True,False,True,False,False,False,False,False,True,False,SOMETIMES,False,True,False,False,True,RARELY,SOMETIMES,REGULARLY,28,MODERATE
+SYN-0033,PRIVATE,False,False,False,False,True,True,False,False,False,False,RARELY,True,False,False,True,False,NEVER,SOMETIMES,REGULARLY,23,MODERATE
+SYN-0034,FRIENDS,False,False,False,True,False,False,False,False,False,False,OFTEN,False,False,True,False,False,RARELY,SOMETIMES,SOMETIMES,28,MODERATE
+SYN-0035,FRIENDS,True,False,False,False,False,False,False,False,False,False,NEVER,False,False,False,False,True,SOMETIMES,NOT SURE,REGULARLY,28,MODERATE
+SYN-0036,PUBLIC,True,False,False,False,False,False,False,False,False,False,SOMETIMES,False,True,True,False,False,NEVER,SOMETIMES,SOMETIMES,29,MODERATE
+SYN-0037,FRIENDS,False,True,False,False,False,False,False,False,False,False,NEVER,False,False,True,False,False,RARELY,NOT SURE,REGULARLY,29,MODERATE
+SYN-0038,FRIENDS,False,False,False,False,False,False,False,True,True,True,RARELY,True,True,True,False,False,RARELY,SOMETIMES,REGULARLY,24,MODERATE
+SYN-0039,PUBLIC,False,False,True,False,True,False,False,False,True,True,RARELY,True,True,False,False,False,RARELY,SOMETIMES,NOT SURE,29,MODERATE
+SYN-0040,PUBLIC,False,False,True,True,False,False,True,False,True,False,SOMETIMES,False,True,False,True,False,NEVER,SOMETIMES,REGULARLY,30,MODERATE
+SYN-0041,PUBLIC,True,False,False,False,False,False,False,True,False,False,RARELY,False,False,False,True,False,NEVER,SOMETIMES,NOT SURE,24,MODERATE
+SYN-0042,PUBLIC,False,False,True,False,True,False,False,False,False,False,NEVER,False,False,True,False,False,NEVER,REGULARLY,NOT SURE,23,MODERATE
+SYN-0043,FRIENDS,False,False,False,False,False,False,True,False,True,False,NEVER,False,True,False,False,True,NEVER,SOMETIMES,REGULARLY,22,MODERATE
+SYN-0044,PUBLIC,True,False,False,False,False,False,True,True,True,False,NEVER,False,False,False,True,False,NEVER,SOMETIMES,SOMETIMES,30,MODERATE
+SYN-0045,FRIENDS,False,False,False,False,False,False,True,False,False,True,SOMETIMES,False,True,False,True,False,RARELY,SOMETIMES,SOMETIMES,31,MODERATE
+SYN-0046,PUBLIC,True,False,False,False,True,False,False,False,False,False,RARELY,False,True,False,True,False,NEVER,REGULARLY,SOMETIMES,24,MODERATE
+SYN-0047,FRIENDS,False,True,False,False,False,False,False,False,False,False,NEVER,False,False,False,True,False,NEVER,SOMETIMES,REGULARLY,27,MODERATE
+SYN-0048,FRIENDS,False,False,False,False,False,True,False,True,False,True,RARELY,False,True,True,False,False,RARELY,SOMETIMES,SOMETIMES,27,MODERATE
+SYN-0049,FRIENDS,True,True,True,False,True,False,False,False,True,False,NEVER,True,False,True,False,False,SOMETIMES,SOMETIMES,NEVER,30,MODERATE
+SYN-0050,FRIENDS,False,False,False,False,False,False,False,False,False,False,SOMETIMES,True,True,True,True,False,RARELY,NEVER,NEVER,21,MODERATE
+SYN-0051,FRIENDS,False,False,False,False,False,True,False,False,False,False,SOMETIMES,False,True,True,True,False,SOMETIMES,NOT SURE,REGULARLY,22,MODERATE
+SYN-0052,PRIVATE,False,False,True,False,False,False,True,False,False,True,NEVER,True,False,True,True,True,SOMETIMES,SOMETIMES,SOMETIMES,28,MODERATE
+SYN-0053,PUBLIC,False,True,False,False,False,False,False,False,False,False,RARELY,False,False,False,False,False,NEVER,SOMETIMES,SOMETIMES,27,MODERATE
+SYN-0054,FRIENDS,True,False,False,True,False,False,False,False,False,True,RARELY,False,True,False,False,False,RARELY,SOMETIMES,REGULARLY,26,MODERATE
+SYN-0055,PUBLIC,False,True,False,False,False,False,True,False,False,False,NEVER,False,False,False,False,False,RARELY,REGULARLY,SOMETIMES,29,MODERATE
+SYN-0056,PUBLIC,False,True,False,True,False,True,False,False,False,False,RARELY,True,False,True,False,False,RARELY,REGULARLY,REGULARLY,27,MODERATE
+SYN-0057,PUBLIC,False,False,False,True,False,False,True,True,False,False,RARELY,True,True,False,False,False,RARELY,REGULARLY,SOMETIMES,32,MODERATE
+SYN-0058,PUBLIC,True,False,False,False,False,True,False,False,False,True,NEVER,False,False,False,True,False,NEVER,NEVER,NEVER,35,MODERATE
+SYN-0059,FRIENDS,True,False,False,False,False,True,False,False,False,False,SOMETIMES,True,False,True,False,False,NEVER,REGULARLY,SOMETIMES,24,MODERATE
+SYN-0060,PUBLIC,False,True,False,False,False,False,True,True,False,False,RARELY,True,False,False,True,False,RARELY,NEVER,SOMETIMES,27,MODERATE
+SYN-0061,PRIVATE,True,False,False,False,False,True,True,False,False,True,SOMETIMES,True,False,False,True,True,NEVER,REGULARLY,SOMETIMES,27,MODERATE
+SYN-0062,FRIENDS,True,False,False,False,False,False,True,False,True,True,NEVER,False,False,False,False,False,NEVER,SOMETIMES,NEVER,26,MODERATE
+SYN-0063,PUBLIC,False,False,False,False,False,False,False,False,False,True,RARELY,False,True,False,True,False,SOMETIMES,REGULARLY,REGULARLY,21,MODERATE
+SYN-0064,PRIVATE,False,False,True,False,False,False,False,True,False,False,RARELY,True,False,False,False,True,RARELY,REGULARLY,NEVER,28,MODERATE
+SYN-0065,FRIENDS,True,False,False,True,False,False,False,False,False,False,NEVER,False,True,False,False,True,NEVER,NEVER,SOMETIMES,30,MODERATE
+SYN-0066,FRIENDS,False,False,True,True,False,True,False,False,False,False,NEVER,False,True,False,False,False,RARELY,SOMETIMES,NEVER,25,MODERATE
+SYN-0067,PUBLIC,False,False,False,True,False,False,False,False,False,False,NEVER,False,False,True,True,False,RARELY,REGULARLY,NOT SURE,26,MODERATE
+SYN-0068,PUBLIC,False,False,False,False,False,True,False,False,True,True,SOMETIMES,False,False,False,False,False,RARELY,REGULARLY,SOMETIMES,29,MODERATE
+SYN-0069,PUBLIC,False,False,True,True,False,False,False,True,True,True,NEVER,False,False,False,True,True,NEVER,SOMETIMES,REGULARLY,37,MODERATE
+SYN-0070,FRIENDS,False,False,False,True,True,False,False,True,False,True,NEVER,False,True,False,False,False,SOMETIMES,NEVER,REGULARLY,28,MODERATE
+SYN-0071,PRIVATE,False,True,False,True,False,False,False,True,False,False,SOMETIMES,False,False,True,False,False,NEVER,REGULARLY,REGULARLY,30,MODERATE
+SYN-0072,FRIENDS,False,False,False,False,False,False,False,False,False,False,SOMETIMES,False,False,False,False,False,NEVER,SOMETIMES,NOT SURE,26,MODERATE
+SYN-0073,FRIENDS,False,False,False,False,False,False,False,False,True,False,NEVER,True,True,True,True,False,RARELY,REGULARLY,NOT SURE,20,LOW
+SYN-0074,PUBLIC,False,True,False,False,False,False,False,False,False,False,SOMETIMES,False,True,False,True,True,SOMETIMES,REGULARLY,SOMETIMES,26,MODERATE
+SYN-0075,FRIENDS,False,False,True,False,False,False,False,False,True,False,SOMETIMES,False,False,False,False,True,NEVER,SOMETIMES,NEVER,31,MODERATE
+SYN-0076,FRIENDS,False,False,True,True,False,False,False,False,False,False,NEVER,True,False,False,False,False,NEVER,NEVER,SOMETIMES,27,MODERATE
+SYN-0077,PUBLIC,False,False,False,False,False,False,False,False,True,True,SOMETIMES,False,False,False,True,False,NEVER,REGULARLY,NEVER,32,MODERATE
+SYN-0078,PUBLIC,False,False,False,True,False,False,False,True,False,True,SOMETIMES,False,False,False,True,False,NEVER,SOMETIMES,SOMETIMES,32,MODERATE
+SYN-0079,FRIENDS,True,False,True,False,False,False,False,False,True,False,SOMETIMES,False,False,False,False,False,NEVER,REGULARLY,SOMETIMES,35,MODERATE
+SYN-0080,PUBLIC,True,False,True,False,True,False,True,False,True,False,RARELY,True,False,False,False,False,SOMETIMES,REGULARLY,SOMETIMES,35,MODERATE
+SYN-0081,PUBLIC,False,False,False,False,False,False,True,False,True,False,RARELY,False,False,False,False,True,RARELY,REGULARLY,SOMETIMES,31,MODERATE
+SYN-0082,PUBLIC,False,False,False,False,False,False,False,False,True,False,RARELY,False,False,True,False,False,RARELY,REGULARLY,REGULARLY,23,MODERATE
+SYN-0083,PUBLIC,False,False,False,True,False,False,True,False,False,False,RARELY,True,False,False,False,False,NEVER,REGULARLY,REGULARLY,28,MODERATE
+SYN-0084,PRIVATE,True,True,False,False,True,False,False,False,False,False,RARELY,False,False,False,False,True,NEVER,REGULARLY,SOMETIMES,32,MODERATE
+SYN-0085,FRIENDS,False,False,False,False,True,True,False,False,False,True,SOMETIMES,False,True,False,True,False,RARELY,NEVER,SOMETIMES,26,MODERATE
+SYN-0086,PUBLIC,False,False,False,True,False,False,True,True,False,False,RARELY,False,True,True,True,False,RARELY,SOMETIMES,REGULARLY,22,MODERATE
+SYN-0087,FRIENDS,True,True,True,False,False,False,True,False,False,True,NEVER,True,False,True,False,False,RARELY,SOMETIMES,REGULARLY,28,MODERATE
+SYN-0088,PUBLIC,False,True,False,False,False,True,False,False,True,False,SOMETIMES,True,True,False,False,False,NEVER,REGULARLY,REGULARLY,31,MODERATE
+SYN-0089,PUBLIC,False,False,False,True,False,False,False,False,False,True,RARELY,False,False,False,False,False,SOMETIMES,REGULARLY,REGULARLY,31,MODERATE
+SYN-0090,FRIENDS,False,False,False,False,True,True,False,False,False,False,SOMETIMES,False,True,False,False,False,OFTEN,REGULARLY,SOMETIMES,29,MODERATE
+SYN-0091,PUBLIC,True,False,False,False,False,False,False,True,False,True,NEVER,False,True,False,False,False,SOMETIMES,SOMETIMES,REGULARLY,29,MODERATE
+SYN-0092,PRIVATE,False,True,False,False,False,True,False,False,True,False,RARELY,False,False,False,False,False,RARELY,SOMETIMES,REGULARLY,25,MODERATE
+SYN-0093,PRIVATE,False,False,False,True,True,True,False,False,False,False,SOMETIMES,False,True,False,False,False,RARELY,SOMETIMES,SOMETIMES,28,MODERATE
+SYN-0094,PUBLIC,False,False,False,True,False,False,True,False,False,True,NEVER,False,True,True,False,False,RARELY,REGULARLY,NEVER,29,MODERATE
+SYN-0095,PUBLIC,False,False,True,True,True,False,True,False,False,False,RARELY,True,False,False,True,False,RARELY,NEVER,NOT SURE,34,MODERATE
+SYN-0096,PUBLIC,False,True,False,False,False,True,False,True,False,False,NEVER,False,False,False,True,False,NEVER,NOT SURE,REGULARLY,25,MODERATE
+SYN-0097,FRIENDS,False,False,False,False,False,False,False,True,False,False,NEVER,False,True,False,False,False,NEVER,REGULARLY,REGULARLY,22,MODERATE
+SYN-0098,FRIENDS,False,False,False,False,False,False,False,False,False,False,SOMETIMES,True,True,True,False,False,NEVER,SOMETIMES,SOMETIMES,27,MODERATE
+SYN-0099,PUBLIC,False,True,True,False,False,False,False,False,False,False,SOMETIMES,False,False,False,True,False,NEVER,SOMETIMES,NEVER,22,MODERATE
+SYN-0100,PUBLIC,False,False,False,True,False,True,False,True,False,False,RARELY,False,False,False,False,False,RARELY,REGULARLY,SOMETIMES,30,MODERATE
+SYN-0101,PUBLIC,False,True,False,False,False,True,True,False,True,False,NEVER,False,True,True,False,True,NEVER,REGULARLY,REGULARLY,27,MODERATE
+SYN-0102,FRIENDS,False,False,False,False,False,False,True,False,False,False,NEVER,True,True,True,False,False,SOMETIMES,NEVER,SOMETIMES,21,MODERATE
+SYN-0103,FRIENDS,False,False,True,False,True,False,False,False,False,False,RARELY,False,False,False,False,True,NEVER,SOMETIMES,REGULARLY,27,MODERATE
+SYN-0104,FRIENDS,False,False,False,False,False,False,False,False,False,True,NEVER,False,True,False,True,True,RARELY,SOMETIMES,SOMETIMES,26,MODERATE
+SYN-0105,FRIENDS,True,False,True,False,False,False,False,True,False,False,OFTEN,False,True,False,True,False,RARELY,REGULARLY,REGULARLY,26,MODERATE
+SYN-0106,PUBLIC,False,False,False,False,True,False,False,True,False,False,RARELY,True,False,False,False,False,RARELY,SOMETIMES,SOMETIMES,29,MODERATE
+SYN-0107,FRIENDS,False,True,False,False,True,False,False,False,False,False,NEVER,True,True,False,False,False,RARELY,NOT SURE,SOMETIMES,29,MODERATE
+SYN-0108,PRIVATE,False,True,True,False,False,True,False,False,False,False,OFTEN,False,True,False,True,True,RARELY,NEVER,NOT SURE,31,MODERATE
+SYN-0109,FRIENDS,False,False,False,False,False,False,True,True,False,False,NEVER,True,False,False,True,False,NEVER,SOMETIMES,SOMETIMES,19,LOW
+SYN-0110,PRIVATE,False,False,False,False,True,True,False,False,False,False,RARELY,True,True,False,False,False,NEVER,SOMETIMES,SOMETIMES,20,LOW
+SYN-0111,PUBLIC,False,False,False,True,False,False,False,False,False,False,SOMETIMES,False,True,False,True,False,NEVER,REGULARLY,SOMETIMES,26,MODERATE
+SYN-0112,PRIVATE,True,True,False,True,False,True,False,True,True,False,OFTEN,False,False,False,False,False,NEVER,NOT SURE,NEVER,40,MODERATE
+SYN-0113,PUBLIC,True,False,False,True,False,False,False,True,False,False,SOMETIMES,True,False,False,False,False,RARELY,SOMETIMES,NEVER,30,MODERATE
+SYN-0114,PUBLIC,False,False,True,True,False,False,False,False,False,False,RARELY,True,False,False,False,True,NEVER,SOMETIMES,REGULARLY,28,MODERATE
+SYN-0115,PRIVATE,False,False,False,False,True,False,False,True,False,True,NEVER,False,True,False,False,False,RARELY,SOMETIMES,NEVER,24,MODERATE
+SYN-0116,PUBLIC,False,False,False,False,False,False,True,True,False,False,NEVER,False,False,True,False,True,RARELY,REGULARLY,SOMETIMES,28,MODERATE
+SYN-0117,FRIENDS,True,False,False,True,False,False,False,False,False,False,NEVER,False,True,False,False,False,SOMETIMES,SOMETIMES,SOMETIMES,28,MODERATE
+SYN-0118,PUBLIC,False,False,False,False,True,True,True,False,True,False,NEVER,False,False,False,False,False,RARELY,SOMETIMES,SOMETIMES,29,MODERATE
+SYN-0119,FRIENDS,False,False,True,False,False,True,False,False,False,True,NEVER,False,True,False,False,False,NEVER,NEVER,REGULARLY,31,MODERATE
+SYN-0120,PUBLIC,False,False,True,False,False,False,True,True,False,False,SOMETIMES,False,False,True,False,False,SOMETIMES,REGULARLY,REGULARLY,28,MODERATE
+SYN-0121,PUBLIC,False,False,False,False,True,True,False,False,False,False,RARELY,False,False,True,True,False,NEVER,REGULARLY,NEVER,25,MODERATE
+SYN-0122,PUBLIC,True,False,True,False,True,True,True,True,False,False,SOMETIMES,False,False,False,True,False,RARELY,REGULARLY,SOMETIMES,40,MODERATE
+SYN-0123,PRIVATE,False,False,False,False,False,True,False,True,True,False,SOMETIMES,True,True,True,False,True,NEVER,REGULARLY,NOT SURE,37,MODERATE
+SYN-0124,PRIVATE,False,False,True,False,False,False,False,False,False,False,SOMETIMES,False,True,True,False,False,RARELY,REGULARLY,REGULARLY,17,LOW
+SYN-0125,PUBLIC,False,False,True,False,False,False,False,False,True,True,RARELY,False,False,False,True,False,SOMETIMES,SOMETIMES,REGULARLY,25,MODERATE
+SYN-0126,PUBLIC,False,False,False,False,False,False,False,False,False,False,NEVER,False,True,False,False,False,RARELY,REGULARLY,SOMETIMES,20,LOW
+SYN-0127,FRIENDS,True,False,False,False,True,False,False,False,False,False,SOMETIMES,False,False,False,False,False,RARELY,REGULARLY,SOMETIMES,26,MODERATE
+SYN-0128,PUBLIC,True,False,True,False,False,False,False,True,False,False,RARELY,False,False,True,False,True,NEVER,REGULARLY,NOT SURE,29,MODERATE
+SYN-0129,PUBLIC,False,False,False,True,False,False,False,True,False,False,NEVER,False,False,True,False,False,RARELY,NEVER,SOMETIMES,27,MODERATE
+SYN-0130,FRIENDS,True,False,False,False,True,False,False,False,True,False,RARELY,False,True,False,True,False,SOMETIMES,SOMETIMES,NOT SURE,29,MODERATE
+SYN-0131,PUBLIC,False,False,True,False,True,False,False,False,False,False,NEVER,False,False,False,True,False,NEVER,NOT SURE,REGULARLY,28,MODERATE
+SYN-0132,FRIENDS,False,False,False,True,False,False,False,True,False,True,OFTEN,False,False,True,False,False,NEVER,NOT SURE,SOMETIMES,31,MODERATE
+SYN-0133,FRIENDS,False,True,True,False,False,False,False,False,False,False,RARELY,False,True,True,False,False,SOMETIMES,REGULARLY,NOT SURE,29,MODERATE
+SYN-0134,PUBLIC,False,True,False,False,False,False,False,False,True,False,SOMETIMES,False,False,False,False,False,NEVER,SOMETIMES,SOMETIMES,31,MODERATE
+SYN-0135,PUBLIC,True,False,True,True,False,False,False,False,False,True,NEVER,False,False,False,False,True,NEVER,SOMETIMES,SOMETIMES,37,MODERATE
+SYN-0136,PUBLIC,True,False,False,False,False,False,False,True,False,False,NEVER,False,False,False,False,False,RARELY,SOMETIMES,REGULARLY,32,MODERATE
+SYN-0137,PRIVATE,False,False,False,True,False,True,False,False,True,False,NEVER,False,False,False,False,True,SOMETIMES,REGULARLY,SOMETIMES,29,MODERATE
+SYN-0138,FRIENDS,False,False,True,False,False,True,False,False,False,False,RARELY,True,True,False,True,False,RARELY,REGULARLY,SOMETIMES,23,MODERATE
+SYN-0139,FRIENDS,True,False,False,False,False,False,False,True,True,False,RARELY,False,False,False,False,False,NEVER,REGULARLY,NEVER,34,MODERATE
+SYN-0140,FRIENDS,True,False,False,True,True,False,False,False,False,True,NEVER,True,False,False,True,False,NEVER,NEVER,REGULARLY,27,MODERATE
+SYN-0141,PUBLIC,True,False,False,False,True,False,False,False,False,False,NEVER,False,False,False,False,False,RARELY,SOMETIMES,REGULARLY,25,MODERATE
+SYN-0142,FRIENDS,True,False,False,False,False,False,False,False,False,False,RARELY,False,False,False,False,False,RARELY,SOMETIMES,SOMETIMES,29,MODERATE
+SYN-0143,PRIVATE,True,False,True,False,False,False,False,False,False,True,NEVER,True,False,True,False,True,SOMETIMES,SOMETIMES,SOMETIMES,31,MODERATE
+SYN-0144,PUBLIC,False,False,False,False,True,False,False,False,False,True,SOMETIMES,True,False,True,False,False,RARELY,REGULARLY,SOMETIMES,26,MODERATE
+SYN-0145,PRIVATE,False,False,False,False,False,False,False,False,True,True,NEVER,False,False,True,False,False,SOMETIMES,REGULARLY,REGULARLY,25,MODERATE
+SYN-0146,FRIENDS,False,False,False,False,True,False,False,False,False,False,RARELY,True,False,True,False,False,NEVER,SOMETIMES,REGULARLY,28,MODERATE
+SYN-0147,PUBLIC,True,False,True,True,False,False,True,False,True,True,OFTEN,False,True,False,False,False,RARELY,SOMETIMES,SOMETIMES,36,MODERATE
+SYN-0148,PUBLIC,False,True,False,False,False,False,False,False,False,True,RARELY,False,True,True,True,False,NEVER,REGULARLY,REGULARLY,25,MODERATE
+SYN-0149,PUBLIC,False,False,False,False,False,False,False,True,False,False,RARELY,False,True,True,False,True,OFTEN,REGULARLY,NOT SURE,27,MODERATE
+SYN-0150,PUBLIC,True,False,False,False,False,False,False,False,False,True,RARELY,True,False,True,True,False,RARELY,SOMETIMES,SOMETIMES,28,MODERATE
+SYN-0151,FRIENDS,False,False,False,False,True,True,False,False,False,False,SOMETIMES,False,False,False,False,False,RARELY,REGULARLY,SOMETIMES,24,MODERATE
+SYN-0152,PUBLIC,False,False,False,False,False,False,False,False,False,False,RARELY,False,False,False,True,True,NEVER,SOMETIMES,REGULARLY,31,MODERATE
+SYN-0153,PUBLIC,False,False,False,True,False,False,False,False,False,True,SOMETIMES,False,True,False,False,False,NEVER,REGULARLY,SOMETIMES,25,MODERATE
+SYN-0154,PRIVATE,False,True,True,False,False,False,False,False,False,False,RARELY,True,True,False,True,False,SOMETIMES,NOT SURE,NEVER,27,MODERATE
+SYN-0155,PUBLIC,False,True,False,False,False,False,False,False,True,False,NEVER,False,True,True,False,False,RARELY,SOMETIMES,REGULARLY,22,MODERATE
+SYN-0156,FRIENDS,True,True,False,True,False,True,False,False,False,True,NEVER,False,False,False,True,True,NEVER,NOT SURE,NOT SURE,35,MODERATE
+SYN-0157,FRIENDS,False,False,False,False,False,False,False,False,False,True,SOMETIMES,False,False,True,True,False,RARELY,NEVER,SOMETIMES,21,MODERATE
+SYN-0158,PUBLIC,False,False,False,False,False,True,True,False,True,False,NEVER,True,True,False,False,False,SOMETIMES,NEVER,REGULARLY,32,MODERATE
+SYN-0159,FRIENDS,True,True,False,False,True,True,False,False,False,False,RARELY,False,False,True,False,False,RARELY,REGULARLY,NOT SURE,31,MODERATE
+SYN-0160,FRIENDS,False,False,False,False,False,True,False,False,False,False,NEVER,False,False,False,False,True,SOMETIMES,SOMETIMES,NEVER,34,MODERATE
+SYN-0161,PUBLIC,False,False,True,False,False,False,False,True,False,True,SOMETIMES,False,False,False,False,False,NEVER,NEVER,SOMETIMES,30,MODERATE
+SYN-0162,FRIENDS,False,False,True,False,False,False,True,False,True,False,SOMETIMES,False,True,True,False,False,NEVER,REGULARLY,SOMETIMES,22,MODERATE
+SYN-0163,FRIENDS,False,True,False,False,False,True,True,False,False,False,SOMETIMES,False,False,False,True,False,NEVER,NOT SURE,SOMETIMES,26,MODERATE
+SYN-0164,FRIENDS,False,True,False,True,False,False,False,False,False,False,NEVER,False,False,True,False,True,RARELY,SOMETIMES,REGULARLY,26,MODERATE
+SYN-0165,FRIENDS,True,False,False,True,False,False,False,False,True,True,RARELY,True,False,False,False,False,NEVER,SOMETIMES,NEVER,26,MODERATE
+SYN-0166,PRIVATE,False,True,True,False,False,False,True,False,False,False,SOMETIMES,False,False,True,False,False,RARELY,NEVER,SOMETIMES,32,MODERATE
+SYN-0167,PRIVATE,False,False,False,False,True,False,False,False,False,False,NEVER,True,True,False,True,False,NEVER,REGULARLY,SOMETIMES,17,LOW
+SYN-0168,FRIENDS,True,False,False,True,False,True,True,False,False,False,NEVER,True,False,False,False,False,SOMETIMES,SOMETIMES,SOMETIMES,31,MODERATE
+SYN-0169,PUBLIC,True,False,False,True,True,False,False,False,False,False,RARELY,False,False,False,True,False,NEVER,SOMETIMES,SOMETIMES,28,MODERATE
+SYN-0170,FRIENDS,False,False,False,False,False,False,False,False,False,False,OFTEN,False,False,True,False,False,RARELY,SOMETIMES,REGULARLY,25,MODERATE
+SYN-0171,FRIENDS,True,False,True,False,True,False,False,True,True,False,SOMETIMES,True,False,False,False,False,SOMETIMES,REGULARLY,NEVER,34,MODERATE
+SYN-0172,PUBLIC,False,False,False,False,False,True,True,False,True,False,SOMETIMES,False,True,True,False,False,RARELY,REGULARLY,REGULARLY,24,MODERATE
+SYN-0173,PUBLIC,True,False,False,False,True,False,False,False,True,False,SOMETIMES,False,False,False,False,False,NEVER,SOMETIMES,NOT SURE,33,MODERATE
+SYN-0174,PRIVATE,True,False,False,True,True,False,False,False,True,False,NEVER,False,False,True,False,False,RARELY,REGULARLY,SOMETIMES,24,MODERATE
+SYN-0175,PUBLIC,False,False,False,False,False,False,False,True,False,False,SOMETIMES,False,True,False,False,True,RARELY,REGULARLY,SOMETIMES,31,MODERATE
+SYN-0176,FRIENDS,False,False,True,True,True,False,False,True,False,False,SOMETIMES,True,False,False,False,True,RARELY,NEVER,REGULARLY,35,MODERATE
+SYN-0177,PRIVATE,False,True,False,True,False,False,True,True,True,False,NEVER,False,False,False,True,False,SOMETIMES,SOMETIMES,NOT SURE,32,MODERATE
+SYN-0178,PUBLIC,False,False,False,False,False,False,False,False,False,False,OFTEN,False,True,True,False,True,NEVER,NEVER,SOMETIMES,28,MODERATE
+SYN-0179,PUBLIC,False,True,False,True,True,False,True,False,False,True,SOMETIMES,False,False,True,True,False,RARELY,REGULARLY,SOMETIMES,34,MODERATE
+SYN-0180,FRIENDS,False,False,False,True,False,False,True,False,True,True,SOMETIMES,True,False,False,True,True,SOMETIMES,SOMETIMES,SOMETIMES,34,MODERATE
+SYN-0181,FRIENDS,False,False,True,False,False,False,False,False,True,False,RARELY,False,True,True,True,False,SOMETIMES,REGULARLY,REGULARLY,21,MODERATE
+SYN-0182,FRIENDS,True,True,False,False,False,False,False,False,True,False,SOMETIMES,False,False,True,True,False,RARELY,NEVER,SOMETIMES,29,MODERATE
+SYN-0183,FRIENDS,True,False,False,False,True,False,False,False,False,True,OFTEN,False,False,False,False,False,NEVER,SOMETIMES,SOMETIMES,30,MODERATE
+SYN-0184,FRIENDS,False,False,False,True,False,True,False,False,False,True,NEVER,False,True,False,False,False,SOMETIMES,SOMETIMES,REGULARLY,28,MODERATE
+SYN-0185,FRIENDS,False,False,False,False,False,False,False,False,True,False,RARELY,False,False,False,True,False,NEVER,NEVER,REGULARLY,18,LOW
+SYN-0186,PUBLIC,False,False,False,False,True,False,True,False,False,True,RARELY,False,False,False,False,True,RARELY,SOMETIMES,REGULARLY,27,MODERATE
+SYN-0187,FRIENDS,False,False,False,True,False,False,False,True,False,False,NEVER,True,True,False,False,True,OFTEN,SOMETIMES,SOMETIMES,30,MODERATE
+SYN-0188,PUBLIC,False,True,False,False,False,False,False,False,False,False,SOMETIMES,False,False,False,False,False,NEVER,SOMETIMES,SOMETIMES,31,MODERATE
+SYN-0189,PUBLIC,False,True,False,True,False,True,False,False,False,False,NEVER,False,False,False,True,False,NEVER,NOT SURE,NEVER,28,MODERATE
+SYN-0190,PRIVATE,True,False,False,False,False,False,False,False,False,False,SOMETIMES,True,False,False,False,False,RARELY,REGULARLY,NEVER,30,MODERATE
+SYN-0191,FRIENDS,False,True,False,False,False,False,False,False,True,True,SOMETIMES,True,True,True,False,False,SOMETIMES,NEVER,NEVER,28,MODERATE
+SYN-0192,FRIENDS,True,False,True,False,False,False,False,True,True,False,SOMETIMES,False,True,False,False,True,NEVER,NEVER,REGULARLY,36,MODERATE
+SYN-0193,FRIENDS,False,False,False,True,True,False,True,True,False,False,RARELY,False,True,True,False,True,NEVER,REGULARLY,NEVER,28,MODERATE
+SYN-0194,PRIVATE,False,True,False,True,False,True,False,False,False,False,RARELY,False,False,False,False,True,NEVER,SOMETIMES,SOMETIMES,31,MODERATE
+SYN-0195,PUBLIC,True,False,False,True,False,False,False,False,False,False,OFTEN,True,True,False,False,False,NEVER,REGULARLY,SOMETIMES,30,MODERATE
+SYN-0196,PRIVATE,False,False,False,True,False,False,False,False,False,False,SOMETIMES,False,False,True,False,False,NEVER,REGULARLY,REGULARLY,22,MODERATE
+SYN-0197,FRIENDS,False,True,False,True,True,True,False,True,True,False,RARELY,False,False,False,True,True,OFTEN,REGULARLY,SOMETIMES,36,MODERATE
+SYN-0198,PUBLIC,False,True,False,False,False,False,False,False,False,False,NEVER,False,False,True,False,False,SOMETIMES,REGULARLY,NOT SURE,28,MODERATE
+SYN-0199,FRIENDS,False,True,False,True,False,False,False,False,False,True,NEVER,False,False,False,True,True,NEVER,REGULARLY,NEVER,27,MODERATE
+SYN-0200,FRIENDS,False,True,True,False,False,True,True,True,False,False,NEVER,False,False,False,False,True,NEVER,SOMETIMES,REGULARLY,28,MODERATE
+SYN-0201,PRIVATE,True,False,False,False,False,True,False,False,False,False,SOMETIMES,False,False,False,True,False,NEVER,SOMETIMES,SOMETIMES,27,MODERATE
+SYN-0202,PRIVATE,True,True,True,False,False,False,True,False,False,True,SOMETIMES,False,False,False,False,False,NEVER,NEVER,SOMETIMES,35,MODERATE
+SYN-0203,PUBLIC,False,False,True,False,False,False,False,False,True,False,SOMETIMES,False,True,False,False,False,NEVER,SOMETIMES,REGULARLY,33,MODERATE
+SYN-0204,PUBLIC,True,False,False,False,False,False,False,False,False,False,RARELY,False,True,False,True,False,NEVER,NEVER,SOMETIMES,30,MODERATE
+SYN-0205,PUBLIC,False,False,False,True,True,False,False,False,False,False,OFTEN,False,False,True,False,False,NEVER,NOT SURE,SOMETIMES,28,MODERATE
+SYN-0206,FRIENDS,False,False,True,False,False,False,False,False,False,False,RARELY,False,False,False,False,True,NEVER,NOT SURE,NEVER,31,MODERATE
+SYN-0207,PUBLIC,False,False,True,True,False,False,False,False,False,False,RARELY,False,True,False,False,False,NEVER,SOMETIMES,REGULARLY,28,MODERATE
+SYN-0208,PUBLIC,False,False,False,False,False,True,True,False,False,False,NEVER,False,True,False,True,False,NEVER,SOMETIMES,REGULARLY,25,MODERATE
+SYN-0209,FRIENDS,False,False,False,False,True,False,True,False,False,False,NEVER,False,False,False,False,False,SOMETIMES,NEVER,REGULARLY,22,MODERATE
+SYN-0210,PUBLIC,False,False,False,False,True,False,True,True,False,False,RARELY,False,False,True,False,False,RARELY,REGULARLY,REGULARLY,24,MODERATE
+SYN-0211,FRIENDS,False,False,True,False,False,False,False,False,False,False,SOMETIMES,True,False,False,False,False,SOMETIMES,NEVER,SOMETIMES,30,MODERATE
+SYN-0212,PUBLIC,True,False,False,True,True,False,False,False,False,False,RARELY,False,False,False,False,True,NEVER,SOMETIMES,REGULARLY,34,MODERATE
+SYN-0213,PUBLIC,True,False,False,False,False,True,False,False,False,False,NEVER,False,False,False,True,False,RARELY,SOMETIMES,SOMETIMES,28,MODERATE
+SYN-0214,PUBLIC,False,False,False,False,False,True,False,False,False,False,RARELY,True,True,True,False,False,RARELY,REGULARLY,SOMETIMES,17,LOW
+SYN-0215,PUBLIC,False,True,False,False,False,False,False,True,False,False,NEVER,False,False,True,False,True,NEVER,NOT SURE,SOMETIMES,29,MODERATE
+SYN-0216,FRIENDS,False,True,False,False,False,False,True,True,False,True,OFTEN,False,False,True,True,False,NEVER,NEVER,SOMETIMES,30,MODERATE
+SYN-0217,PRIVATE,True,False,True,False,False,False,True,False,True,False,SOMETIMES,False,True,False,False,False,NEVER,SOMETIMES,SOMETIMES,31,MODERATE
+SYN-0218,PRIVATE,False,True,False,True,False,False,False,True,False,False,NEVER,False,False,False,False,True,SOMETIMES,SOMETIMES,REGULARLY,32,MODERATE
+SYN-0219,FRIENDS,True,True,False,False,False,False,True,False,False,False,RARELY,False,True,False,True,False,NEVER,REGULARLY,NOT SURE,29,MODERATE
+SYN-0220,PUBLIC,False,False,False,True,False,False,False,True,True,False,RARELY,False,True,False,False,False,NEVER,REGULARLY,SOMETIMES,32,MODERATE
+SYN-0221,FRIENDS,False,False,False,False,True,True,True,False,False,False,RARELY,False,False,True,True,False,RARELY,SOMETIMES,SOMETIMES,26,MODERATE
+SYN-0222,FRIENDS,False,True,False,False,False,True,False,False,False,True,NEVER,False,True,True,False,False,RARELY,NEVER,REGULARLY,22,MODERATE
+SYN-0223,PUBLIC,False,False,False,True,False,False,False,False,False,False,SOMETIMES,True,False,False,False,False,OFTEN,NOT SURE,REGULARLY,32,MODERATE
+SYN-0224,PUBLIC,False,False,False,False,True,False,False,False,False,False,OFTEN,True,False,True,True,False,NEVER,NEVER,REGULARLY,25,MODERATE
+SYN-0225,PUBLIC,False,False,False,False,False,False,True,False,False,False,RARELY,False,False,False,False,False,RARELY,SOMETIMES,NEVER,25,MODERATE
+SYN-0226,FRIENDS,True,False,False,False,False,False,False,False,False,True,SOMETIMES,False,True,False,False,False,NEVER,SOMETIMES,SOMETIMES,32,MODERATE
+SYN-0227,FRIENDS,True,True,False,False,False,True,True,False,False,True,SOMETIMES,False,False,False,True,False,NEVER,REGULARLY,REGULARLY,32,MODERATE
+SYN-0228,PUBLIC,False,False,False,False,True,False,True,False,False,False,RARELY,True,False,False,False,False,NEVER,SOMETIMES,REGULARLY,29,MODERATE
+SYN-0229,FRIENDS,False,False,True,False,False,True,False,False,True,True,NEVER,False,False,True,True,False,RARELY,REGULARLY,SOMETIMES,25,MODERATE
+SYN-0230,FRIENDS,True,False,False,False,False,False,False,False,False,True,NEVER,False,True,False,True,False,NEVER,NEVER,NEVER,25,MODERATE
+SYN-0231,PUBLIC,False,False,False,False,False,False,False,False,False,False,SOMETIMES,False,False,True,True,False,RARELY,SOMETIMES,NOT SURE,25,MODERATE
+SYN-0232,PUBLIC,False,False,True,True,False,True,True,True,False,False,RARELY,False,False,True,True,False,RARELY,REGULARLY,NEVER,32,MODERATE
+SYN-0233,FRIENDS,False,False,False,False,False,False,True,False,False,False,NEVER,False,True,False,False,True,SOMETIMES,SOMETIMES,REGULARLY,17,LOW
+SYN-0234,PUBLIC,False,False,False,False,False,True,True,True,False,True,RARELY,False,False,False,False,False,SOMETIMES,NEVER,REGULARLY,28,MODERATE
+SYN-0235,FRIENDS,False,False,False,False,False,False,True,False,False,False,SOMETIMES,False,False,False,False,False,NEVER,NOT SURE,NEVER,23,MODERATE
+SYN-0236,PUBLIC,False,False,False,False,True,False,True,True,True,False,NEVER,False,False,False,False,True,RARELY,REGULARLY,NEVER,31,MODERATE
+SYN-0237,FRIENDS,False,False,True,True,False,True,True,False,True,True,SOMETIMES,True,False,True,False,False,RARELY,NOT SURE,SOMETIMES,36,MODERATE
+SYN-0238,PUBLIC,False,True,False,True,False,False,False,False,False,False,SOMETIMES,False,False,True,False,True,OFTEN,SOMETIMES,SOMETIMES,35,MODERATE
+SYN-0239,PUBLIC,True,False,True,True,False,False,False,True,False,True,RARELY,True,False,False,True,False,SOMETIMES,NOT SURE,SOMETIMES,27,MODERATE
+SYN-0240,PRIVATE,True,True,False,False,False,False,False,False,False,False,RARELY,False,False,False,False,False,NEVER,NOT SURE,SOMETIMES,24,MODERATE
+SYN-0241,PRIVATE,False,False,False,False,False,False,False,False,False,False,NEVER,False,True,True,False,False,RARELY,SOMETIMES,REGULARLY,18,LOW
+SYN-0242,FRIENDS,True,False,False,False,False,False,False,False,False,False,SOMETIMES,True,False,False,False,True,NEVER,SOMETIMES,REGULARLY,25,MODERATE
+SYN-0243,PUBLIC,True,True,False,False,False,False,False,False,False,False,NEVER,False,False,False,False,True,RARELY,SOMETIMES,SOMETIMES,30,MODERATE
+SYN-0244,FRIENDS,False,False,True,True,False,True,False,False,False,False,NEVER,False,False,False,False,True,RARELY,SOMETIMES,SOMETIMES,30,MODERATE
+SYN-0245,PUBLIC,False,False,False,False,True,False,True,True,False,True,RARELY,False,False,False,False,True,NEVER,NOT SURE,NEVER,34,MODERATE
+SYN-0246,PUBLIC,True,False,False,False,False,False,False,False,True,False,RARELY,True,False,False,True,False,RARELY,SOMETIMES,REGULARLY,26,MODERATE
+SYN-0247,PUBLIC,False,True,True,False,False,False,False,False,False,False,RARELY,False,True,True,False,False,NEVER,REGULARLY,SOMETIMES,32,MODERATE
+SYN-0248,PRIVATE,False,False,False,True,False,False,True,False,True,False,RARELY,False,False,False,False,False,RARELY,REGULARLY,REGULARLY,30,MODERATE
+SYN-0249,FRIENDS,False,False,False,True,True,False,False,True,True,False,OFTEN,False,True,True,True,False,RARELY,NEVER,REGULARLY,33,MODERATE
+SYN-0250,PRIVATE,False,False,True,True,False,True,True,True,False,False,OFTEN,False,False,False,False,False,SOMETIMES,SOMETIMES,SOMETIMES,40,MODERATE
+SYN-0251,FRIENDS,False,False,False,False,False,False,False,True,False,True,RARELY,False,False,True,False,False,NEVER,SOMETIMES,REGULARLY,27,MODERATE
+SYN-0252,PUBLIC,False,False,True,False,False,False,False,False,False,True,NEVER,True,False,False,False,True,NEVER,SOMETIMES,SOMETIMES,32,MODERATE
+SYN-0253,FRIENDS,True,True,False,False,False,False,True,False,False,False,SOMETIMES,False,False,True,True,True,RARELY,REGULARLY,REGULARLY,27,MODERATE
+SYN-0254,FRIENDS,False,True,False,False,False,True,False,False,False,False,NEVER,False,False,False,False,True,NEVER,REGULARLY,SOMETIMES,24,MODERATE
+SYN-0255,PRIVATE,True,True,False,False,False,True,True,False,True,True,RARELY,False,False,True,True,False,RARELY,SOMETIMES,SOMETIMES,30,MODERATE
+SYN-0256,FRIENDS,False,True,True,True,False,False,False,False,False,False,NEVER,False,True,False,True,False,OFTEN,REGULARLY,REGULARLY,27,MODERATE
+SYN-0257,PRIVATE,False,False,True,True,True,True,False,False,False,False,NEVER,False,False,True,True,False,RARELY,SOMETIMES,REGULARLY,24,MODERATE
+SYN-0258,PUBLIC,True,False,False,False,False,False,False,False,False,False,NEVER,True,True,False,False,False,SOMETIMES,REGULARLY,REGULARLY,29,MODERATE
+SYN-0259,PRIVATE,False,False,False,False,False,False,True,False,False,False,RARELY,False,False,False,True,False,RARELY,SOMETIMES,NEVER,26,MODERATE
+SYN-0260,PUBLIC,False,True,False,False,True,True,True,False,False,False,RARELY,True,True,False,True,False,NEVER,NEVER,SOMETIMES,28,MODERATE
+SYN-0261,FRIENDS,True,False,True,True,False,False,False,False,True,False,OFTEN,False,False,True,False,True,RARELY,SOMETIMES,REGULARLY,33,MODERATE
+SYN-0262,FRIENDS,False,False,False,False,False,False,False,True,False,False,RARELY,True,True,False,False,False,NEVER,REGULARLY,NOT SURE,22,MODERATE
+SYN-0263,PUBLIC,False,False,False,True,False,True,False,True,False,False,RARELY,False,False,False,False,True,NEVER,NEVER,SOMETIMES,37,MODERATE
+SYN-0264,PUBLIC,False,False,False,False,False,False,False,False,False,True,RARELY,False,False,False,False,False,RARELY,SOMETIMES,NEVER,31,MODERATE
+SYN-0265,PUBLIC,True,False,False,False,True,False,False,True,False,False,RARELY,False,False,True,True,False,RARELY,SOMETIMES,REGULARLY,29,MODERATE
+SYN-0266,PUBLIC,False,True,False,True,False,False,False,True,True,False,RARELY,False,False,False,False,False,NEVER,SOMETIMES,REGULARLY,28,MODERATE
+SYN-0267,PUBLIC,False,True,False,False,False,False,False,True,True,False,NEVER,False,False,False,False,True,SOMETIMES,NOT SURE,SOMETIMES,38,MODERATE
+SYN-0268,PUBLIC,True,False,True,True,False,True,True,False,False,False,SOMETIMES,False,True,False,False,True,SOMETIMES,SOMETIMES,NEVER,41,HIGH
+SYN-0269,FRIENDS,False,False,False,False,True,False,False,False,False,False,OFTEN,False,False,False,True,False,RARELY,SOMETIMES,SOMETIMES,31,MODERATE
+SYN-0270,PUBLIC,False,False,False,False,False,False,False,False,False,False,SOMETIMES,False,False,False,False,False,NEVER,SOMETIMES,REGULARLY,20,LOW
+SYN-0271,PUBLIC,False,False,False,False,True,True,False,False,False,True,NEVER,False,False,True,True,False,RARELY,REGULARLY,NOT SURE,23,MODERATE
+SYN-0272,PUBLIC,False,True,False,True,False,True,True,False,True,False,SOMETIMES,False,False,False,False,False,RARELY,REGULARLY,REGULARLY,37,MODERATE
+SYN-0273,FRIENDS,True,False,False,False,False,False,False,False,False,False,OFTEN,False,True,False,False,True,NEVER,REGULARLY,NOT SURE,29,MODERATE
+SYN-0274,PRIVATE,False,True,False,False,False,True,True,True,True,False,NEVER,True,True,True,True,False,RARELY,SOMETIMES,SOMETIMES,24,MODERATE
+SYN-0275,FRIENDS,False,False,False,False,False,False,False,False,False,False,NEVER,False,True,False,False,True,SOMETIMES,NEVER,SOMETIMES,25,MODERATE
+SYN-0276,FRIENDS,False,False,False,False,False,False,True,True,True,False,NEVER,False,False,False,False,False,RARELY,REGULARLY,REGULARLY,25,MODERATE
+SYN-0277,PUBLIC,False,False,True,True,False,False,True,False,False,True,SOMETIMES,False,False,True,False,False,NEVER,NOT SURE,SOMETIMES,35,MODERATE
+SYN-0278,FRIENDS,False,True,False,False,True,True,False,False,False,True,OFTEN,True,False,False,False,False,RARELY,NEVER,NOT SURE,28,MODERATE
+SYN-0279,FRIENDS,True,True,False,False,False,False,False,False,True,True,SOMETIMES,True,False,False,True,False,RARELY,SOMETIMES,REGULARLY,34,MODERATE
+SYN-0280,PRIVATE,True,True,True,True,True,True,False,False,True,False,RARELY,True,False,True,True,True,OFTEN,NOT SURE,NOT SURE,30,MODERATE
+SYN-0281,PUBLIC,False,True,False,False,False,False,False,False,False,False,NEVER,False,False,False,False,False,NEVER,NEVER,REGULARLY,30,MODERATE
+SYN-0282,FRIENDS,True,True,False,False,False,False,True,False,False,False,NEVER,False,False,True,False,True,NEVER,REGULARLY,SOMETIMES,24,MODERATE
+SYN-0283,PRIVATE,False,False,False,False,True,False,False,False,True,False,NEVER,True,False,True,False,False,RARELY,NOT SURE,NEVER,28,MODERATE
+SYN-0284,PUBLIC,True,False,False,False,True,False,True,True,False,False,SOMETIMES,False,True,False,False,True,SOMETIMES,NEVER,NOT SURE,37,MODERATE
+SYN-0285,PUBLIC,False,False,True,True,True,False,False,False,False,False,RARELY,True,False,True,False,False,SOMETIMES,SOMETIMES,NOT SURE,29,MODERATE
+SYN-0286,FRIENDS,False,False,False,True,False,False,True,True,False,False,RARELY,True,True,False,False,False,NEVER,SOMETIMES,REGULARLY,22,MODERATE
+SYN-0287,PUBLIC,True,False,True,False,False,False,False,False,True,False,NEVER,False,False,False,False,True,RARELY,NEVER,REGULARLY,36,MODERATE
+SYN-0288,PUBLIC,False,False,True,False,False,True,True,True,False,False,RARELY,True,False,True,False,True,OFTEN,NOT SURE,REGULARLY,30,MODERATE
+SYN-0289,FRIENDS,True,True,False,False,False,False,False,False,False,False,RARELY,False,False,False,True,False,NEVER,NOT SURE,NEVER,22,MODERATE
+SYN-0290,PUBLIC,False,False,False,True,True,False,False,False,False,False,NEVER,False,False,False,False,True,RARELY,REGULARLY,NEVER,26,MODERATE
+SYN-0291,FRIENDS,True,False,True,True,True,False,False,True,True,False,OFTEN,False,False,False,False,True,NEVER,SOMETIMES,REGULARLY,40,MODERATE
+SYN-0292,FRIENDS,False,False,False,False,True,True,False,False,True,False,OFTEN,True,False,True,True,False,SOMETIMES,SOMETIMES,NEVER,30,MODERATE
+SYN-0293,FRIENDS,False,True,False,False,False,False,False,False,False,False,RARELY,False,True,False,True,False,RARELY,SOMETIMES,REGULARLY,22,MODERATE
+SYN-0294,PUBLIC,False,False,False,True,True,False,False,False,True,False,OFTEN,True,False,True,True,True,SOMETIMES,SOMETIMES,SOMETIMES,33,MODERATE
+SYN-0295,FRIENDS,False,False,False,False,True,False,False,True,False,False,NEVER,False,False,True,False,False,NEVER,SOMETIMES,SOMETIMES,24,MODERATE
+SYN-0296,FRIENDS,False,False,False,True,False,True,False,False,False,True,NEVER,True,False,False,False,True,RARELY,NOT SURE,REGULARLY,32,MODERATE
+SYN-0297,PUBLIC,False,False,False,True,True,False,False,False,True,True,NEVER,False,True,False,True,True,NEVER,SOMETIMES,REGULARLY,31,MODERATE
+SYN-0298,FRIENDS,True,False,False,False,True,False,False,False,False,False,SOMETIMES,True,True,True,True,False,NEVER,REGULARLY,NEVER,18,LOW
+SYN-0299,FRIENDS,False,False,False,False,False,False,False,False,False,False,NEVER,False,False,False,True,True,NEVER,REGULARLY,NOT SURE,25,MODERATE
+SYN-0300,PUBLIC,False,False,False,False,False,False,False,False,True,False,RARELY,False,False,False,False,False,NEVER,SOMETIMES,REGULARLY,26,MODERATE
+SYN-0301,FRIENDS,False,False,False,False,False,False,False,False,True,True,SOMETIMES,False,True,False,False,False,NEVER,NEVER,NEVER,28,MODERATE
+SYN-0302,FRIENDS,False,False,False,False,False,False,True,False,True,False,SOMETIMES,True,False,False,False,True,RARELY,SOMETIMES,REGULARLY,21,MODERATE
+SYN-0303,FRIENDS,False,False,True,False,False,False,False,False,False,False,RARELY,True,False,True,False,False,SOMETIMES,NOT SURE,REGULARLY,21,MODERATE
+SYN-0304,PUBLIC,False,False,False,False,True,False,False,True,False,True,RARELY,True,False,False,False,False,SOMETIMES,REGULARLY,SOMETIMES,27,MODERATE
+SYN-0305,FRIENDS,False,False,False,False,False,False,True,True,False,False,OFTEN,False,True,False,False,False,NEVER,SOMETIMES,SOMETIMES,30,MODERATE
+SYN-0306,PUBLIC,False,True,False,True,False,False,False,False,False,False,NEVER,True,True,False,False,False,NEVER,SOMETIMES,SOMETIMES,26,MODERATE
+SYN-0307,PUBLIC,True,False,False,False,False,False,False,False,True,False,RARELY,False,False,False,False,False,NEVER,REGULARLY,NEVER,33,MODERATE
+SYN-0308,PUBLIC,True,False,False,True,True,False,False,False,True,False,NEVER,True,False,False,False,True,SOMETIMES,REGULARLY,SOMETIMES,26,MODERATE
+SYN-0309,PUBLIC,False,False,True,True,False,False,False,False,True,False,NEVER,False,True,True,True,False,NEVER,SOMETIMES,NEVER,23,MODERATE
+SYN-0310,FRIENDS,False,True,False,False,False,False,True,False,False,True,RARELY,True,False,False,True,False,NEVER,REGULARLY,SOMETIMES,24,MODERATE
+SYN-0311,FRIENDS,False,False,False,False,False,True,False,True,True,True,RARELY,False,True,True,False,True,RARELY,REGULARLY,SOMETIMES,25,MODERATE
+SYN-0312,PUBLIC,False,True,False,True,False,False,False,True,False,True,RARELY,True,False,True,False,False,NEVER,SOMETIMES,SOMETIMES,30,MODERATE
+SYN-0313,FRIENDS,False,False,False,True,False,True,False,False,False,True,SOMETIMES,True,False,False,False,False,RARELY,NEVER,SOMETIMES,32,MODERATE
+SYN-0314,FRIENDS,False,False,False,False,False,False,False,False,False,False,SOMETIMES,False,False,False,False,False,RARELY,SOMETIMES,SOMETIMES,23,MODERATE
+SYN-0315,PRIVATE,False,False,True,True,False,False,False,False,False,False,RARELY,False,False,True,True,False,RARELY,SOMETIMES,REGULARLY,17,LOW
+SYN-0316,PUBLIC,False,True,False,True,True,True,True,False,True,False,NEVER,True,True,False,False,False,SOMETIMES,NEVER,REGULARLY,35,MODERATE
+SYN-0317,PUBLIC,False,True,False,False,False,False,True,False,True,False,NEVER,True,True,True,True,True,NEVER,NEVER,SOMETIMES,27,MODERATE
+SYN-0318,PUBLIC,True,False,True,True,False,False,False,False,True,False,RARELY,False,False,True,False,False,NEVER,REGULARLY,SOMETIMES,34,MODERATE
+SYN-0319,PUBLIC,False,True,True,False,False,False,True,False,False,False,SOMETIMES,False,True,True,True,True,RARELY,SOMETIMES,SOMETIMES,28,MODERATE
+SYN-0320,PUBLIC,True,True,False,False,True,False,False,True,False,False,NEVER,False,False,True,False,False,RARELY,NEVER,REGULARLY,29,MODERATE
+SYN-0321,PRIVATE,False,False,False,False,False,False,False,False,False,False,NEVER,False,True,True,True,False,RARELY,SOMETIMES,SOMETIMES,18,LOW
+SYN-0322,PUBLIC,False,True,True,False,True,False,True,False,False,False,NEVER,False,False,True,False,False,RARELY,SOMETIMES,SOMETIMES,33,MODERATE
+SYN-0323,PUBLIC,True,False,False,False,False,False,True,False,False,False,RARELY,False,True,True,False,False,RARELY,NEVER,SOMETIMES,32,MODERATE
+SYN-0324,FRIENDS,False,False,False,False,False,True,False,True,False,False,SOMETIMES,True,True,True,False,False,NEVER,REGULARLY,SOMETIMES,27,MODERATE
+SYN-0325,FRIENDS,False,True,False,False,False,False,False,True,False,False,NEVER,False,True,True,True,False,NEVER,REGULARLY,NEVER,20,LOW
+SYN-0326,PUBLIC,False,False,False,True,False,False,False,False,True,False,RARELY,False,False,False,False,False,RARELY,REGULARLY,SOMETIMES,25,MODERATE
+SYN-0327,FRIENDS,False,True,False,False,False,False,True,False,False,False,NEVER,True,False,True,False,False,NEVER,SOMETIMES,NEVER,26,MODERATE
+SYN-0328,PUBLIC,False,True,True,False,False,False,False,False,False,False,NEVER,True,False,True,False,False,RARELY,SOMETIMES,REGULARLY,34,MODERATE
+SYN-0329,FRIENDS,False,False,False,False,True,False,True,False,False,True,RARELY,False,False,False,False,False,RARELY,REGULARLY,SOMETIMES,24,MODERATE
+SYN-0330,FRIENDS,False,False,False,False,False,True,True,False,True,False,RARELY,True,False,False,False,True,SOMETIMES,SOMETIMES,SOMETIMES,32,MODERATE
+SYN-0331,PUBLIC,False,False,True,True,True,False,False,False,False,False,RARELY,True,True,False,False,False,RARELY,REGULARLY,SOMETIMES,24,MODERATE
+SYN-0332,PRIVATE,False,False,False,False,False,False,True,False,False,False,RARELY,False,False,True,False,True,SOMETIMES,NOT SURE,NOT SURE,31,MODERATE
+SYN-0333,PUBLIC,True,False,True,False,False,False,True,False,False,False,OFTEN,False,False,False,False,True,NEVER,NEVER,NEVER,37,MODERATE
+SYN-0334,PUBLIC,False,False,False,False,True,True,False,False,False,True,SOMETIMES,True,False,False,False,False,NEVER,SOMETIMES,SOMETIMES,33,MODERATE
+SYN-0335,FRIENDS,False,False,False,False,True,True,False,False,False,False,RARELY,False,False,False,False,False,RARELY,SOMETIMES,NEVER,24,MODERATE
+SYN-0336,PUBLIC,False,False,False,False,False,True,True,False,False,False,SOMETIMES,False,False,True,False,False,NEVER,SOMETIMES,REGULARLY,27,MODERATE
+SYN-0337,PUBLIC,False,True,True,False,False,False,True,False,False,False,SOMETIMES,False,False,True,False,True,SOMETIMES,SOMETIMES,REGULARLY,32,MODERATE
+SYN-0338,PUBLIC,False,True,False,False,False,False,False,False,True,False,NEVER,False,False,False,False,False,NEVER,REGULARLY,SOMETIMES,20,LOW
+SYN-0339,PRIVATE,False,False,False,False,True,False,True,False,False,False,SOMETIMES,False,False,True,False,False,NEVER,NEVER,SOMETIMES,25,MODERATE
+SYN-0340,FRIENDS,True,False,False,False,False,True,False,True,False,False,NEVER,True,True,True,True,False,NEVER,NEVER,SOMETIMES,28,MODERATE
+SYN-0341,FRIENDS,False,False,False,False,False,False,False,True,False,True,RARELY,True,False,True,False,False,RARELY,NOT SURE,SOMETIMES,26,MODERATE
+SYN-0342,PUBLIC,False,False,False,False,False,False,False,False,True,False,SOMETIMES,False,False,False,True,False,RARELY,NEVER,REGULARLY,31,MODERATE
+SYN-0343,PUBLIC,False,False,False,False,False,True,True,False,False,True,OFTEN,False,False,False,False,False,RARELY,REGULARLY,NEVER,36,MODERATE
+SYN-0344,FRIENDS,False,True,False,False,True,False,True,True,True,False,OFTEN,False,False,False,False,False,SOMETIMES,SOMETIMES,NOT SURE,40,MODERATE
+SYN-0345,PUBLIC,False,True,False,False,False,False,False,True,False,False,OFTEN,False,True,False,True,False,NEVER,REGULARLY,REGULARLY,26,MODERATE
+SYN-0346,PUBLIC,True,True,False,True,False,True,False,False,False,True,SOMETIMES,False,True,False,True,True,RARELY,NEVER,NEVER,42,HIGH
+SYN-0347,PUBLIC,True,False,True,False,False,True,True,False,False,False,RARELY,False,False,False,True,False,SOMETIMES,SOMETIMES,NEVER,33,MODERATE
+SYN-0348,PUBLIC,False,True,False,True,False,False,False,False,False,False,SOMETIMES,True,True,True,True,True,NEVER,REGULARLY,REGULARLY,26,MODERATE
+SYN-0349,FRIENDS,False,False,False,False,False,False,False,False,False,False,OFTEN,False,True,False,False,True,NEVER,REGULARLY,REGULARLY,23,MODERATE
+SYN-0350,PRIVATE,True,False,True,False,False,True,False,False,False,False,RARELY,False,False,True,False,True,SOMETIMES,REGULARLY,REGULARLY,22,MODERATE
+SYN-0351,PUBLIC,False,False,False,False,False,False,False,False,True,True,OFTEN,False,True,False,False,False,SOMETIMES,SOMETIMES,REGULARLY,30,MODERATE
+SYN-0352,PUBLIC,False,True,True,False,False,False,True,False,False,True,RARELY,True,False,True,False,False,OFTEN,REGULARLY,SOMETIMES,27,MODERATE
+SYN-0353,FRIENDS,True,True,False,True,False,False,True,True,False,False,NEVER,True,True,False,False,True,RARELY,REGULARLY,REGULARLY,30,MODERATE
+SYN-0354,FRIENDS,False,False,False,False,False,False,False,True,False,False,RARELY,True,False,True,False,False,OFTEN,NEVER,REGULARLY,24,MODERATE
+SYN-0355,PUBLIC,False,True,False,False,False,True,False,False,True,False,OFTEN,False,False,False,False,False,SOMETIMES,SOMETIMES,NOT SURE,32,MODERATE
+SYN-0356,FRIENDS,False,False,False,True,False,False,True,True,False,False,SOMETIMES,False,True,False,False,False,SOMETIMES,REGULARLY,NEVER,31,MODERATE
+SYN-0357,FRIENDS,False,False,False,False,False,True,False,False,False,False,SOMETIMES,False,False,False,False,True,NEVER,SOMETIMES,SOMETIMES,28,MODERATE
+SYN-0358,PUBLIC,False,True,False,False,False,False,False,False,False,False,RARELY,False,True,True,False,False,SOMETIMES,SOMETIMES,REGULARLY,26,MODERATE
+SYN-0359,PUBLIC,False,False,False,True,False,False,False,False,True,False,SOMETIMES,True,True,False,False,True,NEVER,SOMETIMES,NEVER,36,MODERATE
+SYN-0360,PRIVATE,False,False,False,False,False,False,False,False,False,False,NEVER,False,True,False,True,False,SOMETIMES,SOMETIMES,NOT SURE,21,MODERATE
+SYN-0361,FRIENDS,False,False,False,False,False,True,False,False,False,False,SOMETIMES,False,True,False,False,True,RARELY,REGULARLY,SOMETIMES,30,MODERATE
+SYN-0362,FRIENDS,True,False,True,False,False,False,False,True,True,True,NEVER,False,False,True,False,False,NEVER,SOMETIMES,NEVER,31,MODERATE
+SYN-0363,PUBLIC,False,False,True,True,False,False,False,False,False,False,OFTEN,False,False,False,True,False,NEVER,NOT SURE,NEVER,35,MODERATE
+SYN-0364,FRIENDS,True,False,False,False,False,False,False,False,False,False,NEVER,False,False,False,False,True,RARELY,REGULARLY,REGULARLY,21,MODERATE
+SYN-0365,FRIENDS,False,False,True,False,False,False,False,False,False,True,OFTEN,False,False,True,False,True,NEVER,REGULARLY,REGULARLY,22,MODERATE
+SYN-0366,PUBLIC,False,False,False,False,True,False,False,False,False,False,RARELY,False,False,True,False,True,NEVER,NEVER,REGULARLY,24,MODERATE
+SYN-0367,FRIENDS,True,False,False,True,False,True,False,False,False,False,NEVER,False,True,False,True,False,RARELY,SOMETIMES,NEVER,24,MODERATE
+SYN-0368,PUBLIC,False,False,False,False,False,True,True,True,True,False,RARELY,False,True,False,True,False,RARELY,REGULARLY,NEVER,29,MODERATE
+SYN-0369,PRIVATE,False,False,False,False,False,False,True,False,False,False,NEVER,False,True,False,False,False,OFTEN,SOMETIMES,SOMETIMES,21,MODERATE
+SYN-0370,PUBLIC,False,False,True,False,False,True,False,False,False,False,NEVER,False,False,True,False,False,RARELY,SOMETIMES,SOMETIMES,23,MODERATE
+SYN-0371,FRIENDS,True,False,True,False,False,False,False,False,False,False,SOMETIMES,False,True,True,False,False,NEVER,SOMETIMES,SOMETIMES,28,MODERATE
+SYN-0372,FRIENDS,False,False,True,False,False,False,False,False,True,False,NEVER,True,True,False,False,True,NEVER,SOMETIMES,SOMETIMES,24,MODERATE
+SYN-0373,FRIENDS,False,False,False,False,False,False,False,True,False,False,NEVER,False,True,True,True,False,NEVER,REGULARLY,SOMETIMES,20,LOW
+SYN-0374,FRIENDS,False,True,False,False,True,False,False,False,True,False,RARELY,True,False,False,False,False,RARELY,NOT SURE,NEVER,25,MODERATE
+SYN-0375,FRIENDS,False,False,False,False,False,False,False,False,False,False,SOMETIMES,False,False,True,False,False,RARELY,REGULARLY,SOMETIMES,26,MODERATE
+SYN-0376,FRIENDS,True,False,False,False,False,False,False,True,True,True,RARELY,False,False,False,False,False,SOMETIMES,SOMETIMES,SOMETIMES,39,MODERATE
+SYN-0377,PUBLIC,False,False,False,False,False,False,False,False,False,True,NEVER,True,False,False,True,False,NEVER,NEVER,SOMETIMES,26,MODERATE
+SYN-0378,PRIVATE,True,False,False,False,False,False,False,False,False,False,RARELY,False,True,False,False,False,RARELY,NOT SURE,SOMETIMES,23,MODERATE
+SYN-0379,PRIVATE,False,False,False,False,False,False,False,False,True,False,OFTEN,False,False,False,True,True,RARELY,SOMETIMES,NEVER,28,MODERATE
+SYN-0380,PRIVATE,False,False,False,False,True,False,False,False,False,False,RARELY,False,True,False,False,False,SOMETIMES,REGULARLY,SOMETIMES,30,MODERATE
+SYN-0381,PUBLIC,False,False,False,False,True,False,False,True,False,False,RARELY,False,True,False,False,False,RARELY,SOMETIMES,NEVER,26,MODERATE
+SYN-0382,PRIVATE,False,False,False,True,False,False,False,False,True,False,RARELY,False,False,True,False,False,SOMETIMES,REGULARLY,SOMETIMES,27,MODERATE
+SYN-0383,PUBLIC,True,False,False,False,False,True,False,False,False,True,NEVER,True,True,True,False,False,NEVER,SOMETIMES,SOMETIMES,29,MODERATE
+SYN-0384,FRIENDS,False,False,False,False,False,False,False,False,False,True,NEVER,True,False,False,False,True,SOMETIMES,REGULARLY,REGULARLY,29,MODERATE
+SYN-0385,PRIVATE,False,True,True,True,False,False,False,False,False,False,NEVER,False,False,True,True,False,NEVER,REGULARLY,NEVER,25,MODERATE
+SYN-0386,PRIVATE,True,False,True,False,False,True,False,False,False,False,NEVER,True,False,True,False,True,NEVER,SOMETIMES,SOMETIMES,34,MODERATE
+SYN-0387,FRIENDS,False,False,False,False,False,False,True,True,False,False,SOMETIMES,True,False,True,False,False,SOMETIMES,SOMETIMES,REGULARLY,24,MODERATE
+SYN-0388,PRIVATE,False,True,True,True,False,False,False,True,True,True,RARELY,True,True,False,False,False,NEVER,SOMETIMES,SOMETIMES,37,MODERATE
+SYN-0389,FRIENDS,False,False,False,False,False,False,False,False,True,False,OFTEN,True,False,True,False,False,NEVER,SOMETIMES,REGULARLY,26,MODERATE
+SYN-0390,FRIENDS,True,True,True,False,False,False,False,False,False,False,SOMETIMES,False,True,True,True,True,NEVER,SOMETIMES,SOMETIMES,31,MODERATE
+SYN-0391,FRIENDS,False,False,True,False,False,True,True,True,True,False,SOMETIMES,False,False,True,False,False,NEVER,REGULARLY,REGULARLY,31,MODERATE
+SYN-0392,FRIENDS,True,False,False,True,True,False,False,True,True,False,RARELY,False,True,False,False,True,NEVER,SOMETIMES,SOMETIMES,35,MODERATE
+SYN-0393,PUBLIC,False,False,False,False,True,True,False,True,False,False,RARELY,False,True,True,True,False,RARELY,REGULARLY,NEVER,25,MODERATE
+SYN-0394,FRIENDS,False,False,False,False,True,False,False,False,True,False,NEVER,False,True,False,False,False,NEVER,REGULARLY,REGULARLY,22,MODERATE
+SYN-0395,PUBLIC,False,False,False,False,True,False,False,True,False,False,NEVER,False,False,True,True,True,OFTEN,SOMETIMES,REGULARLY,23,MODERATE
+SYN-0396,FRIENDS,False,False,False,True,False,False,True,False,False,False,RARELY,False,False,True,True,False,NEVER,REGULARLY,SOMETIMES,28,MODERATE
+SYN-0397,PUBLIC,False,False,False,False,True,False,False,True,False,True,OFTEN,True,True,False,False,False,RARELY,SOMETIMES,SOMETIMES,30,MODERATE
+SYN-0398,PUBLIC,False,False,False,False,False,True,False,False,False,False,SOMETIMES,False,False,True,False,True,SOMETIMES,SOMETIMES,SOMETIMES,28,MODERATE
+SYN-0399,FRIENDS,False,True,False,False,True,True,False,False,False,False,RARELY,True,False,False,True,True,OFTEN,REGULARLY,SOMETIMES,26,MODERATE
+SYN-0400,PUBLIC,True,False,False,False,False,False,True,False,True,False,RARELY,False,False,False,True,False,RARELY,REGULARLY,SOMETIMES,24,MODERATE
+SYN-0401,PRIVATE,False,True,False,True,False,False,True,True,True,False,NEVER,False,False,False,True,False,OFTEN,REGULARLY,SOMETIMES,35,MODERATE
+SYN-0402,PRIVATE,False,False,False,False,False,True,False,True,False,False,OFTEN,False,True,False,False,False,NEVER,REGULARLY,NOT SURE,20,LOW
+SYN-0403,PUBLIC,True,False,False,True,False,True,False,False,False,False,NEVER,False,False,False,False,False,NEVER,REGULARLY,SOMETIMES,30,MODERATE
+SYN-0404,PUBLIC,False,False,True,True,False,False,True,True,False,True,SOMETIMES,False,False,True,False,False,OFTEN,SOMETIMES,REGULARLY,38,MODERATE
+SYN-0405,FRIENDS,False,False,False,False,False,True,False,True,False,False,SOMETIMES,True,True,False,False,False,RARELY,REGULARLY,REGULARLY,30,MODERATE
+SYN-0406,PUBLIC,False,False,False,False,False,True,False,True,False,True,SOMETIMES,True,False,True,False,True,NEVER,NEVER,SOMETIMES,30,MODERATE
+SYN-0407,PRIVATE,False,False,False,False,True,True,True,False,False,False,NEVER,False,True,False,False,False,SOMETIMES,NEVER,REGULARLY,26,MODERATE
+SYN-0408,PUBLIC,False,False,False,False,False,False,False,True,False,False,OFTEN,False,False,False,False,False,SOMETIMES,REGULARLY,SOMETIMES,29,MODERATE
+SYN-0409,PUBLIC,False,True,False,False,True,True,False,False,True,False,OFTEN,True,False,True,True,False,SOMETIMES,REGULARLY,REGULARLY,28,MODERATE
+SYN-0410,PUBLIC,True,True,False,False,False,False,False,False,True,False,RARELY,False,True,False,True,False,RARELY,SOMETIMES,REGULARLY,31,MODERATE
+SYN-0411,PRIVATE,False,True,False,False,False,True,False,False,False,True,RARELY,False,True,True,True,False,RARELY,SOMETIMES,NEVER,25,MODERATE
+SYN-0412,PRIVATE,False,False,True,False,False,False,True,True,False,False,OFTEN,False,True,False,True,False,NEVER,SOMETIMES,REGULARLY,29,MODERATE
+SYN-0413,PRIVATE,False,False,False,False,False,False,False,True,False,False,RARELY,False,False,False,True,True,OFTEN,SOMETIMES,REGULARLY,25,MODERATE
+SYN-0414,PUBLIC,False,False,True,False,False,False,False,True,False,False,OFTEN,True,False,False,True,True,NEVER,SOMETIMES,SOMETIMES,35,MODERATE
+SYN-0415,PUBLIC,False,False,True,True,False,True,False,False,False,False,OFTEN,False,False,False,True,False,NEVER,SOMETIMES,REGULARLY,31,MODERATE
+SYN-0416,PUBLIC,True,False,True,False,False,False,False,False,True,True,OFTEN,False,True,False,False,False,SOMETIMES,SOMETIMES,SOMETIMES,45,HIGH
+SYN-0417,FRIENDS,False,False,False,False,True,False,False,True,False,False,RARELY,False,False,True,False,True,NEVER,REGULARLY,REGULARLY,22,MODERATE
+SYN-0418,PUBLIC,True,False,False,False,False,False,False,False,False,False,RARELY,False,False,True,False,False,SOMETIMES,REGULARLY,SOMETIMES,25,MODERATE
+SYN-0419,PUBLIC,False,False,True,False,False,False,False,False,False,False,OFTEN,False,False,False,True,False,RARELY,SOMETIMES,NOT SURE,33,MODERATE
+SYN-0420,FRIENDS,False,True,False,False,False,False,False,False,False,True,SOMETIMES,False,False,True,True,False,RARELY,SOMETIMES,SOMETIMES,31,MODERATE
+SYN-0421,PRIVATE,True,False,False,True,False,True,False,False,False,True,OFTEN,False,False,False,True,True,NEVER,REGULARLY,REGULARLY,23,MODERATE
+SYN-0422,PUBLIC,True,True,False,False,True,False,True,False,False,False,RARELY,False,False,False,False,False,SOMETIMES,REGULARLY,SOMETIMES,35,MODERATE
+SYN-0423,PUBLIC,False,False,False,False,False,False,False,False,True,True,NEVER,False,True,True,False,False,NEVER,SOMETIMES,SOMETIMES,26,MODERATE
+SYN-0424,FRIENDS,False,False,False,True,False,True,True,False,False,True,SOMETIMES,True,True,False,True,False,RARELY,SOMETIMES,REGULARLY,34,MODERATE
+SYN-0425,PUBLIC,False,False,False,False,False,False,True,False,False,False,RARELY,False,False,True,False,False,SOMETIMES,NOT SURE,SOMETIMES,31,MODERATE
+SYN-0426,PUBLIC,False,True,False,True,False,False,False,False,False,True,RARELY,False,True,False,False,False,NEVER,REGULARLY,REGULARLY,33,MODERATE
+SYN-0427,PRIVATE,False,False,False,False,False,True,False,True,False,False,RARELY,True,False,False,False,True,NEVER,SOMETIMES,SOMETIMES,27,MODERATE
+SYN-0428,PRIVATE,True,False,True,False,True,True,False,False,False,True,NEVER,False,False,False,False,False,NEVER,SOMETIMES,REGULARLY,32,MODERATE
+SYN-0429,PUBLIC,False,False,False,False,False,False,True,False,True,False,NEVER,True,True,True,False,False,NEVER,NOT SURE,REGULARLY,31,MODERATE
+SYN-0430,PUBLIC,True,False,False,False,True,True,True,False,False,False,NEVER,False,False,False,True,True,RARELY,NEVER,NEVER,36,MODERATE
+SYN-0431,PUBLIC,False,False,True,True,False,False,False,True,False,True,RARELY,False,True,True,False,False,NEVER,NEVER,SOMETIMES,31,MODERATE
+SYN-0432,FRIENDS,False,False,False,False,False,True,False,False,False,False,SOMETIMES,False,False,False,False,False,NEVER,NEVER,NOT SURE,32,MODERATE
+SYN-0433,FRIENDS,False,False,False,False,True,False,True,False,False,True,SOMETIMES,True,False,False,False,True,RARELY,NOT SURE,REGULARLY,33,MODERATE
+SYN-0434,FRIENDS,False,True,False,False,False,False,False,False,True,True,OFTEN,False,False,True,False,False,RARELY,SOMETIMES,NEVER,30,MODERATE
+SYN-0435,PUBLIC,False,False,False,False,True,False,False,False,False,False,RARELY,False,True,False,False,False,NEVER,REGULARLY,SOMETIMES,27,MODERATE
+SYN-0436,PUBLIC,False,False,False,False,False,False,False,True,True,False,SOMETIMES,False,False,False,True,False,NEVER,REGULARLY,NEVER,25,MODERATE
+SYN-0437,PUBLIC,True,False,True,False,False,False,False,False,False,True,RARELY,False,True,True,False,False,NEVER,REGULARLY,NEVER,29,MODERATE
+SYN-0438,PUBLIC,False,False,False,False,False,False,False,False,False,False,RARELY,False,False,False,False,False,NEVER,SOMETIMES,NEVER,29,MODERATE
+SYN-0439,PRIVATE,False,False,False,False,False,False,False,False,False,True,SOMETIMES,False,False,False,False,False,NEVER,SOMETIMES,REGULARLY,31,MODERATE
+SYN-0440,FRIENDS,False,False,False,False,False,False,False,False,False,True,NEVER,True,True,False,False,False,NEVER,SOMETIMES,NEVER,27,MODERATE
+SYN-0441,FRIENDS,False,False,False,False,False,False,False,False,False,False,RARELY,False,False,False,True,True,SOMETIMES,NEVER,REGULARLY,26,MODERATE
+SYN-0442,PRIVATE,False,False,False,False,False,False,False,True,False,False,SOMETIMES,False,False,False,False,False,SOMETIMES,NOT SURE,SOMETIMES,25,MODERATE
+SYN-0443,PUBLIC,False,False,True,False,True,False,False,False,False,False,SOMETIMES,False,False,False,False,False,RARELY,NEVER,NOT SURE,32,MODERATE
+SYN-0444,FRIENDS,False,False,False,False,True,True,False,False,False,False,RARELY,False,True,True,False,False,RARELY,SOMETIMES,SOMETIMES,22,MODERATE
+SYN-0445,PUBLIC,False,False,False,False,True,True,True,True,True,False,SOMETIMES,True,True,False,False,True,NEVER,NEVER,REGULARLY,34,MODERATE
+SYN-0446,FRIENDS,False,False,False,True,False,True,False,False,True,True,OFTEN,True,True,False,False,False,RARELY,SOMETIMES,REGULARLY,32,MODERATE
+SYN-0447,PUBLIC,True,False,False,True,False,True,False,False,False,False,NEVER,False,True,True,False,True,NEVER,REGULARLY,NEVER,31,MODERATE
+SYN-0448,PUBLIC,False,False,False,True,False,False,False,False,False,True,RARELY,False,True,False,False,True,SOMETIMES,NEVER,SOMETIMES,36,MODERATE
+SYN-0449,PUBLIC,True,False,False,False,False,False,False,False,False,False,NEVER,True,True,True,False,False,RARELY,REGULARLY,SOMETIMES,18,LOW
+SYN-0450,PUBLIC,False,False,False,False,False,False,False,False,False,False,RARELY,True,True,True,False,False,RARELY,SOMETIMES,SOMETIMES,20,LOW
+SYN-0451,FRIENDS,True,False,False,True,True,False,False,False,False,False,RARELY,False,False,False,False,False,NEVER,NOT SURE,SOMETIMES,30,MODERATE
+SYN-0452,PRIVATE,False,False,False,False,True,False,False,False,False,False,RARELY,False,False,False,True,True,NEVER,SOMETIMES,SOMETIMES,27,MODERATE
+SYN-0453,FRIENDS,False,False,False,True,False,False,True,False,False,True,SOMETIMES,True,False,False,False,True,SOMETIMES,REGULARLY,REGULARLY,38,MODERATE
+SYN-0454,PUBLIC,False,False,True,True,False,True,False,False,False,True,RARELY,False,True,False,True,False,RARELY,REGULARLY,REGULARLY,30,MODERATE
+SYN-0455,PRIVATE,False,True,False,False,True,True,False,False,True,True,RARELY,True,False,False,True,False,SOMETIMES,NOT SURE,NOT SURE,31,MODERATE
+SYN-0456,FRIENDS,False,True,False,False,False,False,True,False,True,False,NEVER,False,False,True,False,True,SOMETIMES,NOT SURE,SOMETIMES,31,MODERATE
+SYN-0457,PUBLIC,False,True,True,False,True,False,False,False,False,False,NEVER,True,False,False,True,True,RARELY,SOMETIMES,SOMETIMES,30,MODERATE
+SYN-0458,FRIENDS,False,True,False,False,False,False,False,True,False,False,NEVER,True,False,False,True,False,NEVER,SOMETIMES,SOMETIMES,27,MODERATE
+SYN-0459,FRIENDS,False,False,False,False,False,False,False,False,False,False,RARELY,True,False,False,False,False,NEVER,REGULARLY,NEVER,23,MODERATE
+SYN-0460,PUBLIC,False,False,False,False,False,True,False,False,True,True,OFTEN,False,True,False,False,True,NEVER,REGULARLY,SOMETIMES,37,MODERATE
+SYN-0461,PUBLIC,False,False,False,True,False,True,False,False,True,False,SOMETIMES,False,False,True,True,False,RARELY,SOMETIMES,SOMETIMES,32,MODERATE
+SYN-0462,PUBLIC,False,True,True,False,False,False,False,False,False,False,NEVER,False,True,False,False,False,NEVER,NOT SURE,SOMETIMES,26,MODERATE
+SYN-0463,PUBLIC,False,False,True,False,True,True,False,True,False,False,OFTEN,False,True,True,False,True,NEVER,REGULARLY,REGULARLY,35,MODERATE
+SYN-0464,PRIVATE,True,True,False,False,False,False,False,False,False,False,SOMETIMES,False,True,False,True,False,NEVER,NOT SURE,SOMETIMES,26,MODERATE
+SYN-0465,FRIENDS,False,False,False,False,False,False,True,True,False,True,NEVER,False,True,True,False,False,NEVER,REGULARLY,NEVER,23,MODERATE
+SYN-0466,PUBLIC,False,False,False,False,False,False,False,False,False,False,NEVER,False,True,True,True,False,OFTEN,NEVER,REGULARLY,25,MODERATE
+SYN-0467,FRIENDS,False,False,False,False,False,False,False,False,False,False,OFTEN,False,False,False,True,False,RARELY,NEVER,SOMETIMES,32,MODERATE
+SYN-0468,PRIVATE,False,False,False,False,False,False,True,True,True,False,RARELY,False,True,False,True,False,SOMETIMES,NEVER,REGULARLY,23,MODERATE
+SYN-0469,PRIVATE,False,False,False,False,False,False,True,False,False,False,RARELY,True,False,False,False,False,RARELY,NEVER,REGULARLY,27,MODERATE
+SYN-0470,PRIVATE,False,False,False,False,False,False,True,False,False,False,SOMETIMES,True,False,True,False,True,NEVER,NEVER,NEVER,27,MODERATE
+SYN-0471,FRIENDS,False,False,True,True,False,False,False,False,False,True,SOMETIMES,False,False,False,False,False,NEVER,SOMETIMES,NEVER,39,MODERATE
+SYN-0472,PUBLIC,False,True,False,False,True,False,False,False,False,True,NEVER,False,True,True,True,False,NEVER,SOMETIMES,NOT SURE,22,MODERATE
+SYN-0473,PUBLIC,False,False,False,False,False,False,True,False,True,False,OFTEN,False,False,False,True,False,NEVER,SOMETIMES,REGULARLY,27,MODERATE
+SYN-0474,FRIENDS,True,False,False,True,False,False,False,False,True,False,RARELY,True,True,True,True,False,NEVER,SOMETIMES,SOMETIMES,21,MODERATE
+SYN-0475,PUBLIC,False,False,False,False,True,True,False,False,False,False,NEVER,False,False,True,False,False,RARELY,REGULARLY,SOMETIMES,26,MODERATE
+SYN-0476,PUBLIC,False,False,False,False,False,False,True,False,False,False,RARELY,False,False,False,True,False,RARELY,NEVER,SOMETIMES,27,MODERATE
+SYN-0477,PUBLIC,False,False,True,False,False,False,False,False,False,False,NEVER,False,True,False,True,False,RARELY,SOMETIMES,REGULARLY,22,MODERATE
+SYN-0478,PUBLIC,False,True,False,False,False,False,True,False,False,False,NEVER,False,False,False,True,False,NEVER,REGULARLY,REGULARLY,26,MODERATE
+SYN-0479,PRIVATE,False,False,True,False,False,False,False,False,False,True,RARELY,False,True,True,False,False,RARELY,SOMETIMES,REGULARLY,24,MODERATE
+SYN-0480,FRIENDS,True,False,False,False,False,False,False,True,False,False,RARELY,True,False,False,False,False,NEVER,REGULARLY,REGULARLY,25,MODERATE
+SYN-0481,PUBLIC,True,True,False,False,False,False,True,False,False,True,SOMETIMES,True,False,True,True,False,RARELY,SOMETIMES,NOT SURE,35,MODERATE
+SYN-0482,FRIENDS,False,True,False,True,False,False,False,False,False,True,OFTEN,True,False,False,False,True,RARELY,SOMETIMES,REGULARLY,32,MODERATE
+SYN-0483,FRIENDS,False,False,True,False,False,False,True,False,False,True,RARELY,False,False,False,True,False,NEVER,SOMETIMES,REGULARLY,23,MODERATE
+SYN-0484,PUBLIC,False,False,True,True,False,False,True,False,False,False,SOMETIMES,True,True,False,True,False,NEVER,REGULARLY,REGULARLY,27,MODERATE
+SYN-0485,PUBLIC,False,False,False,False,False,False,True,False,False,True,RARELY,False,False,False,False,False,SOMETIMES,NEVER,SOMETIMES,29,MODERATE
+SYN-0486,PUBLIC,True,True,False,False,False,True,True,True,False,True,NEVER,True,True,False,False,False,NEVER,SOMETIMES,SOMETIMES,34,MODERATE
+SYN-0487,PUBLIC,False,False,False,True,False,False,True,False,False,False,RARELY,False,True,True,True,False,SOMETIMES,REGULARLY,NEVER,31,MODERATE
+SYN-0488,FRIENDS,True,False,False,False,False,False,True,False,False,True,SOMETIMES,False,True,True,False,False,RARELY,NEVER,SOMETIMES,30,MODERATE
+SYN-0489,FRIENDS,False,False,True,True,False,False,False,True,False,False,SOMETIMES,False,False,False,False,False,NEVER,SOMETIMES,REGULARLY,31,MODERATE
+SYN-0490,PRIVATE,False,False,False,True,False,False,False,False,False,False,OFTEN,True,False,False,False,False,NEVER,NEVER,REGULARLY,32,MODERATE
+SYN-0491,PUBLIC,False,True,False,False,False,False,False,False,True,False,NEVER,True,False,False,False,True,NEVER,NEVER,SOMETIMES,28,MODERATE
+SYN-0492,FRIENDS,False,False,False,False,False,False,True,False,False,False,NEVER,False,False,False,True,False,NEVER,SOMETIMES,NEVER,24,MODERATE
+SYN-0493,FRIENDS,False,False,False,False,False,True,True,False,False,False,NEVER,False,False,True,False,False,RARELY,REGULARLY,SOMETIMES,19,LOW
+SYN-0494,PUBLIC,True,False,False,False,False,True,False,False,False,False,OFTEN,False,False,True,False,False,RARELY,NOT SURE,SOMETIMES,32,MODERATE
+SYN-0495,FRIENDS,True,False,True,False,False,True,True,False,False,False,SOMETIMES,True,False,True,False,True,RARELY,REGULARLY,REGULARLY,28,MODERATE
+SYN-0496,PUBLIC,False,False,False,False,False,False,False,False,False,False,NEVER,False,False,False,False,False,NEVER,SOMETIMES,REGULARLY,22,MODERATE
+SYN-0497,PUBLIC,False,False,False,False,True,False,False,False,True,False,NEVER,False,False,False,True,False,NEVER,NOT SURE,NEVER,21,MODERATE
+SYN-0498,PUBLIC,False,True,False,True,False,True,False,False,False,False,NEVER,False,True,True,False,False,SOMETIMES,REGULARLY,SOMETIMES,32,MODERATE
+SYN-0499,FRIENDS,False,True,False,False,False,True,False,False,False,True,RARELY,False,True,False,True,True,RARELY,REGULARLY,NEVER,34,MODERATE
+SYN-0500,PUBLIC,True,False,False,False,False,False,False,False,False,False,NEVER,False,True,False,False,False,NEVER,REGULARLY,SOMETIMES,24,MODERATE
+SYN-0501,PUBLIC,False,False,False,False,False,False,True,False,False,True,OFTEN,False,False,True,False,False,NEVER,NOT SURE,SOMETIMES,30,MODERATE
+SYN-0502,PUBLIC,False,False,False,False,False,False,False,False,False,False,OFTEN,False,True,True,False,True,SOMETIMES,NOT SURE,SOMETIMES,32,MODERATE
+SYN-0503,PUBLIC,True,False,True,False,False,False,False,True,False,False,RARELY,True,True,False,False,False,NEVER,NOT SURE,NOT SURE,34,MODERATE
+SYN-0504,PRIVATE,True,False,False,False,False,True,False,False,False,True,NEVER,False,False,False,False,False,NEVER,REGULARLY,SOMETIMES,24,MODERATE
+SYN-0505,FRIENDS,False,True,True,True,False,True,True,False,False,False,SOMETIMES,True,False,False,False,False,SOMETIMES,SOMETIMES,NEVER,35,MODERATE
+SYN-0506,FRIENDS,True,False,False,False,False,True,False,False,False,True,OFTEN,False,False,False,False,True,SOMETIMES,SOMETIMES,SOMETIMES,37,MODERATE
+SYN-0507,PRIVATE,False,False,False,False,True,False,False,False,False,True,NEVER,True,False,False,True,True,NEVER,SOMETIMES,SOMETIMES,19,LOW
+SYN-0508,PUBLIC,False,False,False,False,True,True,False,False,False,False,RARELY,False,True,False,False,True,OFTEN,NEVER,NEVER,29,MODERATE
+SYN-0509,FRIENDS,False,False,False,False,False,False,False,False,False,False,RARELY,True,False,True,False,False,SOMETIMES,SOMETIMES,SOMETIMES,24,MODERATE
+SYN-0510,PRIVATE,True,True,False,False,False,False,False,False,False,False,RARELY,False,False,False,True,False,NEVER,NOT SURE,REGULARLY,25,MODERATE
+SYN-0511,PUBLIC,False,False,True,False,False,False,False,True,False,False,RARELY,True,True,True,True,True,NEVER,SOMETIMES,REGULARLY,23,MODERATE
+SYN-0512,FRIENDS,True,False,False,True,False,False,False,False,False,False,RARELY,False,True,False,False,False,NEVER,SOMETIMES,REGULARLY,29,MODERATE
+SYN-0513,PRIVATE,False,False,False,False,False,False,False,False,False,True,SOMETIMES,False,False,False,False,True,NEVER,REGULARLY,NEVER,27,MODERATE
+SYN-0514,FRIENDS,False,False,False,False,False,False,False,False,False,False,NEVER,False,True,False,False,False,NEVER,SOMETIMES,SOMETIMES,18,LOW
+SYN-0515,FRIENDS,True,False,False,False,False,True,False,False,False,False,SOMETIMES,False,False,False,False,False,NEVER,REGULARLY,SOMETIMES,29,MODERATE
+SYN-0516,PUBLIC,False,False,False,False,False,False,False,False,False,False,SOMETIMES,True,True,False,True,True,NEVER,SOMETIMES,SOMETIMES,24,MODERATE
+SYN-0517,PUBLIC,False,False,False,False,False,True,False,False,False,False,NEVER,False,True,False,False,False,NEVER,NEVER,NEVER,20,LOW
+SYN-0518,PRIVATE,False,True,False,False,False,False,True,True,False,False,SOMETIMES,False,True,False,False,True,RARELY,REGULARLY,NEVER,26,MODERATE
+SYN-0519,FRIENDS,False,True,False,True,False,False,True,True,False,False,OFTEN,False,True,False,False,False,RARELY,REGULARLY,REGULARLY,28,MODERATE
+SYN-0520,PUBLIC,False,False,False,False,False,False,False,False,True,False,OFTEN,False,True,False,True,True,NEVER,REGULARLY,SOMETIMES,31,MODERATE
+SYN-0521,PUBLIC,False,False,False,False,True,True,False,False,False,True,OFTEN,True,False,True,False,False,NEVER,REGULARLY,NEVER,22,MODERATE
+SYN-0522,PUBLIC,False,False,True,True,False,False,False,False,False,True,NEVER,False,False,True,False,True,SOMETIMES,NOT SURE,SOMETIMES,36,MODERATE
+SYN-0523,PUBLIC,True,False,False,False,True,False,False,True,False,False,SOMETIMES,False,False,False,False,True,RARELY,NEVER,REGULARLY,30,MODERATE
+SYN-0524,PRIVATE,False,False,False,False,False,True,True,False,False,False,SOMETIMES,False,False,False,False,False,NEVER,SOMETIMES,SOMETIMES,22,MODERATE
+SYN-0525,FRIENDS,False,True,True,False,False,True,False,True,False,False,OFTEN,False,False,False,False,False,NEVER,NEVER,REGULARLY,34,MODERATE
+SYN-0526,PUBLIC,False,False,False,False,False,True,False,False,False,False,NEVER,False,False,False,False,True,NEVER,REGULARLY,SOMETIMES,29,MODERATE
+SYN-0527,FRIENDS,False,False,False,False,False,True,False,True,True,False,RARELY,False,True,False,False,False,NEVER,REGULARLY,SOMETIMES,26,MODERATE
+SYN-0528,FRIENDS,False,False,False,False,True,False,False,True,True,False,OFTEN,False,True,True,False,False,RARELY,REGULARLY,NOT SURE,34,MODERATE
+SYN-0529,FRIENDS,False,False,False,False,False,True,True,False,False,False,NEVER,False,True,False,False,False,NEVER,REGULARLY,SOMETIMES,23,MODERATE
+SYN-0530,PUBLIC,False,False,False,False,True,False,False,False,False,False,NEVER,False,False,True,False,True,SOMETIMES,REGULARLY,SOMETIMES,29,MODERATE
+SYN-0531,FRIENDS,False,False,False,False,False,False,False,False,True,False,NEVER,True,True,False,False,False,NEVER,NEVER,REGULARLY,21,MODERATE
+SYN-0532,PRIVATE,False,False,False,False,False,False,False,False,False,False,OFTEN,False,True,False,False,False,SOMETIMES,SOMETIMES,SOMETIMES,28,MODERATE
+SYN-0533,FRIENDS,False,False,False,False,False,False,False,True,False,False,NEVER,False,False,False,True,False,SOMETIMES,REGULARLY,REGULARLY,25,MODERATE
+SYN-0534,FRIENDS,False,True,False,False,True,True,False,True,False,True,SOMETIMES,True,True,False,False,False,NEVER,SOMETIMES,REGULARLY,30,MODERATE
+SYN-0535,FRIENDS,False,False,False,False,False,False,False,False,False,False,NEVER,True,False,True,True,False,RARELY,REGULARLY,REGULARLY,17,LOW
+SYN-0536,PUBLIC,False,False,False,False,False,False,False,True,False,False,RARELY,False,False,False,True,False,NEVER,SOMETIMES,SOMETIMES,23,MODERATE
+SYN-0537,PRIVATE,False,False,True,False,False,True,True,True,False,False,RARELY,True,False,False,False,False,RARELY,SOMETIMES,REGULARLY,29,MODERATE
+SYN-0538,FRIENDS,True,False,False,True,True,False,False,False,True,False,SOMETIMES,False,False,True,False,False,SOMETIMES,NEVER,SOMETIMES,38,MODERATE
+SYN-0539,PUBLIC,False,False,True,False,False,False,False,False,False,True,SOMETIMES,True,False,False,True,False,NEVER,REGULARLY,REGULARLY,33,MODERATE
+SYN-0540,PUBLIC,False,False,False,False,False,True,True,True,False,False,SOMETIMES,False,False,False,False,False,RARELY,REGULARLY,REGULARLY,31,MODERATE
+SYN-0541,FRIENDS,False,False,False,False,False,False,False,False,True,False,NEVER,False,False,False,False,False,SOMETIMES,REGULARLY,NEVER,32,MODERATE
+SYN-0542,FRIENDS,False,False,False,False,True,False,True,False,False,False,NEVER,False,False,True,False,False,NEVER,NEVER,NOT SURE,24,MODERATE
+SYN-0543,FRIENDS,True,True,False,False,False,True,False,False,True,True,RARELY,True,False,True,True,False,RARELY,SOMETIMES,REGULARLY,30,MODERATE
+SYN-0544,PUBLIC,False,False,False,False,False,False,False,True,True,False,SOMETIMES,False,False,False,False,False,RARELY,SOMETIMES,SOMETIMES,29,MODERATE
+SYN-0545,FRIENDS,False,False,False,False,False,False,True,False,False,True,NEVER,False,False,False,True,False,RARELY,SOMETIMES,REGULARLY,24,MODERATE
+SYN-0546,FRIENDS,False,False,False,True,False,False,False,False,False,True,SOMETIMES,False,False,True,False,False,NEVER,REGULARLY,REGULARLY,28,MODERATE
+SYN-0547,PRIVATE,True,False,False,True,False,True,False,False,True,False,RARELY,False,False,True,False,False,RARELY,REGULARLY,SOMETIMES,30,MODERATE
+SYN-0548,PUBLIC,False,False,True,True,False,False,False,False,True,False,RARELY,False,False,False,False,False,NEVER,NEVER,SOMETIMES,31,MODERATE
+SYN-0549,PUBLIC,False,False,False,False,True,True,True,False,False,False,RARELY,False,True,True,False,False,SOMETIMES,SOMETIMES,REGULARLY,24,MODERATE
+SYN-0550,PUBLIC,True,True,False,True,False,False,True,False,False,True,RARELY,False,False,False,True,True,RARELY,REGULARLY,REGULARLY,31,MODERATE
+SYN-0551,PUBLIC,True,False,False,False,False,True,False,False,False,False,RARELY,False,False,False,False,True,NEVER,REGULARLY,REGULARLY,34,MODERATE
+SYN-0552,PUBLIC,False,True,False,False,True,True,False,True,False,True,NEVER,False,False,False,False,False,RARELY,SOMETIMES,SOMETIMES,31,MODERATE
+SYN-0553,PUBLIC,False,False,False,True,False,False,False,False,False,False,RARELY,True,False,False,False,False,RARELY,NEVER,NOT SURE,31,MODERATE
+SYN-0554,FRIENDS,False,False,False,False,False,True,False,False,True,True,NEVER,False,False,True,True,False,NEVER,REGULARLY,NOT SURE,23,MODERATE
+SYN-0555,PUBLIC,False,True,False,False,False,False,False,False,False,False,RARELY,False,False,True,False,False,RARELY,SOMETIMES,SOMETIMES,30,MODERATE
+SYN-0556,FRIENDS,False,False,True,False,False,False,False,False,False,False,RARELY,True,False,True,False,True,NEVER,SOMETIMES,REGULARLY,25,MODERATE
+SYN-0557,PUBLIC,False,False,False,False,False,False,False,False,False,True,RARELY,False,False,False,False,True,RARELY,SOMETIMES,SOMETIMES,31,MODERATE
+SYN-0558,PUBLIC,False,True,False,False,False,False,False,False,False,False,NEVER,False,True,False,True,False,NEVER,NEVER,REGULARLY,25,MODERATE
+SYN-0559,FRIENDS,True,False,True,False,True,True,True,True,False,False,NEVER,True,False,True,False,False,RARELY,NEVER,NOT SURE,31,MODERATE
+SYN-0560,PUBLIC,False,False,False,True,False,False,True,True,False,False,NEVER,False,False,True,False,False,RARELY,NOT SURE,REGULARLY,26,MODERATE
+SYN-0561,FRIENDS,True,False,True,False,False,True,False,False,False,False,RARELY,True,False,False,False,True,RARELY,REGULARLY,SOMETIMES,34,MODERATE
+SYN-0562,PUBLIC,False,False,False,True,False,False,False,True,True,False,RARELY,False,True,True,False,False,RARELY,SOMETIMES,REGULARLY,32,MODERATE
+SYN-0563,PUBLIC,False,False,False,False,False,True,False,False,False,True,RARELY,False,False,True,False,False,NEVER,NEVER,REGULARLY,27,MODERATE
+SYN-0564,PUBLIC,False,False,False,False,False,False,True,False,False,True,NEVER,True,False,False,False,False,OFTEN,REGULARLY,REGULARLY,23,MODERATE
+SYN-0565,PUBLIC,True,True,False,True,False,False,False,False,False,False,NEVER,False,False,True,False,False,RARELY,REGULARLY,NEVER,34,MODERATE
+SYN-0566,PRIVATE,False,False,False,False,False,False,False,False,False,False,RARELY,False,False,False,False,False,RARELY,SOMETIMES,REGULARLY,19,LOW
+SYN-0567,PUBLIC,True,False,True,False,False,False,True,False,False,False,NEVER,True,True,False,False,False,NEVER,NEVER,NEVER,27,MODERATE
+SYN-0568,PRIVATE,False,False,False,True,False,False,False,False,True,True,SOMETIMES,False,False,True,True,False,RARELY,SOMETIMES,SOMETIMES,33,MODERATE
+SYN-0569,PRIVATE,True,False,False,False,False,False,False,False,False,False,SOMETIMES,False,True,True,False,True,SOMETIMES,REGULARLY,SOMETIMES,23,MODERATE
+SYN-0570,PUBLIC,False,False,False,False,False,True,False,False,False,False,SOMETIMES,False,False,True,False,False,NEVER,REGULARLY,SOMETIMES,26,MODERATE
+SYN-0571,PUBLIC,False,False,False,True,False,True,False,True,False,False,RARELY,False,True,True,True,False,OFTEN,REGULARLY,REGULARLY,26,MODERATE
+SYN-0572,PRIVATE,False,True,False,False,False,True,True,False,False,False,SOMETIMES,False,False,True,False,False,NEVER,REGULARLY,REGULARLY,21,MODERATE
+SYN-0573,PRIVATE,True,False,False,False,False,True,True,False,False,False,RARELY,False,True,False,False,False,SOMETIMES,REGULARLY,REGULARLY,23,MODERATE
+SYN-0574,PUBLIC,True,False,False,True,False,False,True,True,False,False,SOMETIMES,False,True,False,True,False,NEVER,REGULARLY,SOMETIMES,33,MODERATE
+SYN-0575,FRIENDS,False,False,False,False,False,False,False,False,False,False,RARELY,False,False,False,False,False,RARELY,NOT SURE,REGULARLY,20,LOW
+SYN-0576,FRIENDS,False,False,True,True,False,True,False,True,False,False,SOMETIMES,False,False,False,True,False,RARELY,REGULARLY,REGULARLY,30,MODERATE
+SYN-0577,PUBLIC,False,True,False,False,False,False,False,False,True,False,SOMETIMES,True,True,True,True,False,RARELY,NEVER,NEVER,30,MODERATE
+SYN-0578,PUBLIC,False,False,False,False,False,True,False,False,False,False,SOMETIMES,True,True,False,False,False,RARELY,NEVER,SOMETIMES,31,MODERATE
+SYN-0579,PUBLIC,False,False,True,False,False,False,False,False,True,False,RARELY,False,False,True,True,False,OFTEN,REGULARLY,SOMETIMES,27,MODERATE
+SYN-0580,PRIVATE,True,True,True,False,False,False,False,False,False,False,RARELY,False,True,False,True,False,RARELY,SOMETIMES,SOMETIMES,31,MODERATE
+SYN-0581,FRIENDS,True,False,True,False,False,False,False,False,False,False,NEVER,False,False,False,True,True,SOMETIMES,NOT SURE,REGULARLY,30,MODERATE
+SYN-0582,FRIENDS,False,False,False,False,False,False,True,False,False,False,OFTEN,False,False,False,True,True,NEVER,REGULARLY,NEVER,30,MODERATE
+SYN-0583,PUBLIC,False,True,False,True,False,True,False,False,True,False,SOMETIMES,False,False,False,False,True,RARELY,SOMETIMES,REGULARLY,33,MODERATE
+SYN-0584,PUBLIC,False,False,False,False,True,True,True,False,False,False,RARELY,True,False,False,True,False,NEVER,REGULARLY,REGULARLY,23,MODERATE
+SYN-0585,PRIVATE,False,False,False,False,True,False,False,False,True,False,RARELY,False,False,True,False,False,NEVER,NOT SURE,SOMETIMES,24,MODERATE
+SYN-0586,PUBLIC,True,False,False,False,False,True,True,False,False,False,NEVER,False,False,False,False,False,SOMETIMES,NEVER,NEVER,32,MODERATE
+SYN-0587,PUBLIC,False,False,True,False,False,False,True,False,False,True,NEVER,False,False,False,True,True,NEVER,NEVER,REGULARLY,28,MODERATE
+SYN-0588,PUBLIC,False,False,False,False,True,False,True,False,False,False,NEVER,False,True,False,True,True,RARELY,REGULARLY,NOT SURE,27,MODERATE
+SYN-0589,FRIENDS,False,False,False,True,True,False,True,True,False,True,SOMETIMES,False,False,False,False,True,RARELY,SOMETIMES,NEVER,35,MODERATE
+SYN-0590,FRIENDS,True,False,False,False,True,False,True,False,True,False,NEVER,True,False,False,True,False,RARELY,REGULARLY,REGULARLY,29,MODERATE
+SYN-0591,PUBLIC,False,True,False,False,False,False,False,False,False,False,RARELY,False,False,False,True,True,NEVER,REGULARLY,SOMETIMES,26,MODERATE
+SYN-0592,FRIENDS,False,False,False,False,False,False,True,True,False,True,OFTEN,True,True,False,False,False,NEVER,SOMETIMES,REGULARLY,31,MODERATE
+SYN-0593,FRIENDS,True,False,True,False,False,False,False,True,True,False,NEVER,True,False,False,True,False,NEVER,REGULARLY,REGULARLY,24,MODERATE
+SYN-0594,PUBLIC,False,False,False,False,True,False,False,False,False,False,SOMETIMES,False,True,True,True,True,NEVER,REGULARLY,SOMETIMES,29,MODERATE
+SYN-0595,FRIENDS,True,False,False,False,False,False,False,False,True,False,SOMETIMES,False,True,False,True,True,RARELY,SOMETIMES,REGULARLY,26,MODERATE
+SYN-0596,FRIENDS,False,False,False,True,True,False,False,True,False,True,OFTEN,False,True,True,True,False,RARELY,SOMETIMES,REGULARLY,31,MODERATE
+SYN-0597,PUBLIC,False,False,False,False,False,False,False,True,True,True,NEVER,False,True,False,False,False,SOMETIMES,NEVER,REGULARLY,29,MODERATE
+SYN-0598,PRIVATE,False,False,True,False,False,False,True,False,False,False,RARELY,False,True,True,False,False,NEVER,NEVER,SOMETIMES,24,MODERATE
+SYN-0599,PUBLIC,False,False,False,False,False,False,False,False,False,False,SOMETIMES,False,False,True,False,False,NEVER,SOMETIMES,SOMETIMES,24,MODERATE
+SYN-0600,FRIENDS,False,True,False,False,False,False,False,False,False,False,RARELY,False,False,False,False,False,RARELY,NOT SURE,NEVER,26,MODERATE
+SYN-0601,PUBLIC,False,True,False,False,True,False,False,False,False,False,OFTEN,False,False,True,False,False,NEVER,SOMETIMES,SOMETIMES,29,MODERATE
+SYN-0602,FRIENDS,False,True,False,True,False,False,True,False,True,False,SOMETIMES,False,True,True,True,False,RARELY,NEVER,SOMETIMES,33,MODERATE
+SYN-0603,FRIENDS,True,True,False,False,True,False,False,False,False,False,NEVER,False,True,True,False,False,RARELY,REGULARLY,REGULARLY,21,MODERATE
+SYN-0604,FRIENDS,True,True,True,False,True,False,True,False,True,False,SOMETIMES,False,False,True,False,False,RARELY,NOT SURE,REGULARLY,32,MODERATE
+SYN-0605,FRIENDS,False,False,False,True,False,False,False,False,False,False,NEVER,False,False,False,True,False,NEVER,SOMETIMES,SOMETIMES,23,MODERATE
+SYN-0606,FRIENDS,False,True,True,True,False,True,False,False,True,False,NEVER,False,False,False,False,True,NEVER,NOT SURE,SOMETIMES,34,MODERATE
+SYN-0607,PUBLIC,False,False,False,False,False,False,True,False,False,True,NEVER,False,True,True,True,True,OFTEN,REGULARLY,REGULARLY,25,MODERATE
+SYN-0608,FRIENDS,False,False,True,False,False,False,True,False,False,False,SOMETIMES,False,False,True,False,False,RARELY,SOMETIMES,SOMETIMES,28,MODERATE
+SYN-0609,FRIENDS,True,False,True,True,False,True,False,False,True,False,NEVER,False,False,False,False,False,NEVER,SOMETIMES,SOMETIMES,34,MODERATE
+SYN-0610,PUBLIC,False,True,True,True,True,False,False,False,False,False,NEVER,False,False,False,True,False,RARELY,SOMETIMES,NOT SURE,26,MODERATE
+SYN-0611,FRIENDS,False,False,False,False,False,False,False,True,False,False,RARELY,False,True,True,False,False,NEVER,REGULARLY,SOMETIMES,19,LOW
+SYN-0612,FRIENDS,False,False,False,False,False,False,True,False,False,True,SOMETIMES,True,True,False,True,True,NEVER,NEVER,SOMETIMES,32,MODERATE
+SYN-0613,PUBLIC,True,False,False,False,False,False,False,True,False,True,SOMETIMES,False,False,True,True,True,NEVER,REGULARLY,REGULARLY,25,MODERATE
+SYN-0614,PUBLIC,False,False,False,False,True,False,False,False,False,False,RARELY,False,True,True,False,True,OFTEN,REGULARLY,SOMETIMES,25,MODERATE
+SYN-0615,PRIVATE,False,False,False,True,True,False,True,False,False,False,RARELY,True,False,True,False,False,RARELY,NOT SURE,NEVER,28,MODERATE
+SYN-0616,PRIVATE,False,False,False,True,True,False,False,False,False,False,NEVER,False,False,False,False,True,RARELY,NEVER,REGULARLY,27,MODERATE
+SYN-0617,PRIVATE,False,False,True,True,True,False,True,False,False,True,NEVER,False,False,True,False,False,RARELY,SOMETIMES,NOT SURE,35,MODERATE
+SYN-0618,PRIVATE,False,False,False,False,False,False,False,False,False,True,RARELY,False,False,False,True,False,NEVER,SOMETIMES,NOT SURE,22,MODERATE
+SYN-0619,PUBLIC,False,False,False,False,False,False,False,False,False,False,RARELY,True,True,True,True,False,SOMETIMES,NEVER,REGULARLY,21,MODERATE
+SYN-0620,PRIVATE,False,False,True,False,False,False,False,False,False,True,RARELY,True,False,False,False,False,RARELY,NEVER,SOMETIMES,26,MODERATE
+SYN-0621,PUBLIC,False,False,True,False,False,False,False,True,False,False,SOMETIMES,False,False,False,False,True,RARELY,SOMETIMES,SOMETIMES,37,MODERATE
+SYN-0622,PUBLIC,False,True,False,False,True,False,False,False,False,False,SOMETIMES,True,False,False,False,False,NEVER,SOMETIMES,SOMETIMES,27,MODERATE
+SYN-0623,FRIENDS,False,False,False,False,False,False,False,False,False,True,NEVER,False,False,False,True,False,RARELY,SOMETIMES,REGULARLY,22,MODERATE
+SYN-0624,PRIVATE,False,False,False,False,True,False,False,False,False,False,SOMETIMES,False,True,False,False,False,RARELY,SOMETIMES,NOT SURE,27,MODERATE
+SYN-0625,PUBLIC,True,True,False,False,False,False,True,False,True,True,OFTEN,False,False,True,True,False,NEVER,SOMETIMES,SOMETIMES,27,MODERATE
+SYN-0626,PUBLIC,True,True,False,False,False,False,False,True,False,False,RARELY,False,True,True,False,True,RARELY,REGULARLY,REGULARLY,29,MODERATE
+SYN-0627,PUBLIC,False,True,False,True,False,True,True,False,False,False,RARELY,False,False,False,False,False,NEVER,REGULARLY,NOT SURE,34,MODERATE
+SYN-0628,PUBLIC,False,True,False,False,False,False,False,False,False,True,SOMETIMES,False,False,False,False,True,RARELY,SOMETIMES,REGULARLY,30,MODERATE
+SYN-0629,FRIENDS,False,True,False,False,True,False,False,False,False,False,SOMETIMES,False,False,False,False,False,SOMETIMES,NEVER,REGULARLY,28,MODERATE
+SYN-0630,PUBLIC,False,True,False,False,False,False,False,False,True,False,NEVER,False,True,False,False,False,NEVER,SOMETIMES,NEVER,29,MODERATE
+SYN-0631,FRIENDS,False,False,True,False,False,True,False,False,True,False,OFTEN,False,False,False,False,False,RARELY,REGULARLY,SOMETIMES,34,MODERATE
+SYN-0632,PUBLIC,False,True,False,True,False,False,False,False,False,False,SOMETIMES,False,True,False,True,False,RARELY,SOMETIMES,SOMETIMES,26,MODERATE
+SYN-0633,FRIENDS,True,True,False,False,False,False,True,False,True,False,RARELY,False,True,False,True,False,RARELY,NEVER,SOMETIMES,35,MODERATE
+SYN-0634,PUBLIC,False,False,False,False,False,False,False,False,False,False,RARELY,True,False,True,False,False,RARELY,NEVER,REGULARLY,23,MODERATE
+SYN-0635,PUBLIC,False,False,False,True,False,False,False,False,False,False,SOMETIMES,False,False,False,False,False,NEVER,REGULARLY,REGULARLY,31,MODERATE
+SYN-0636,FRIENDS,True,True,False,True,False,False,True,False,False,False,NEVER,True,False,True,False,False,NEVER,NEVER,SOMETIMES,26,MODERATE
+SYN-0637,FRIENDS,False,False,True,False,False,True,False,False,False,False,RARELY,False,False,True,False,False,NEVER,NEVER,SOMETIMES,29,MODERATE
+SYN-0638,PUBLIC,False,True,True,False,True,False,False,False,False,True,RARELY,False,False,False,False,False,RARELY,REGULARLY,SOMETIMES,32,MODERATE
+SYN-0639,FRIENDS,True,True,False,True,True,True,False,True,True,False,RARELY,False,True,False,True,True,NEVER,NEVER,SOMETIMES,34,MODERATE
+SYN-0640,FRIENDS,False,False,False,False,False,False,False,False,True,True,NEVER,False,True,False,True,False,NEVER,SOMETIMES,REGULARLY,29,MODERATE
+SYN-0641,PUBLIC,False,False,True,False,True,False,True,True,False,False,NEVER,False,True,True,False,True,RARELY,SOMETIMES,SOMETIMES,27,MODERATE
+SYN-0642,FRIENDS,False,False,False,False,True,False,False,False,False,False,RARELY,True,False,True,True,False,RARELY,SOMETIMES,REGULARLY,17,LOW
+SYN-0643,PUBLIC,False,False,False,True,False,False,False,False,False,True,SOMETIMES,False,True,False,False,False,SOMETIMES,NEVER,SOMETIMES,32,MODERATE
+SYN-0644,PUBLIC,False,False,False,False,False,True,False,False,False,False,RARELY,True,True,False,False,False,NEVER,SOMETIMES,REGULARLY,25,MODERATE
+SYN-0645,PUBLIC,False,False,True,False,True,True,False,False,False,False,OFTEN,False,False,False,False,False,NEVER,SOMETIMES,NOT SURE,33,MODERATE
+SYN-0646,PUBLIC,False,False,True,False,False,False,False,True,False,False,RARELY,False,False,False,False,True,NEVER,NEVER,REGULARLY,32,MODERATE
+SYN-0647,PUBLIC,True,False,False,False,True,False,False,False,True,False,OFTEN,False,False,False,False,False,RARELY,NOT SURE,REGULARLY,33,MODERATE
+SYN-0648,PUBLIC,False,False,False,False,False,False,True,False,False,False,NEVER,False,False,True,False,True,NEVER,SOMETIMES,NEVER,18,LOW
+SYN-0649,FRIENDS,False,True,False,False,False,False,False,False,False,True,NEVER,False,False,False,False,True,OFTEN,NEVER,NOT SURE,27,MODERATE
+SYN-0650,FRIENDS,False,True,True,False,False,False,True,False,False,True,NEVER,False,True,False,False,True,NEVER,REGULARLY,NEVER,32,MODERATE
+SYN-0651,PUBLIC,False,False,False,False,False,False,False,True,False,False,RARELY,False,False,False,True,True,NEVER,NOT SURE,SOMETIMES,31,MODERATE
+SYN-0652,PUBLIC,False,True,False,False,True,True,False,False,False,True,NEVER,False,True,False,True,True,NEVER,NEVER,REGULARLY,31,MODERATE
+SYN-0653,FRIENDS,False,True,False,False,False,False,True,True,False,False,RARELY,False,False,False,False,False,NEVER,SOMETIMES,NEVER,33,MODERATE
+SYN-0654,PUBLIC,False,False,True,True,False,False,False,False,False,False,NEVER,False,True,True,True,False,RARELY,SOMETIMES,REGULARLY,27,MODERATE
+SYN-0655,PUBLIC,False,False,False,False,True,False,False,True,False,False,NEVER,False,True,False,False,False,SOMETIMES,REGULARLY,NEVER,30,MODERATE
+SYN-0656,FRIENDS,True,False,True,True,False,False,False,False,False,False,NEVER,True,True,False,False,False,NEVER,SOMETIMES,REGULARLY,29,MODERATE
+SYN-0657,PUBLIC,True,False,False,False,False,True,False,True,False,False,SOMETIMES,False,False,True,False,False,SOMETIMES,SOMETIMES,NOT SURE,39,MODERATE
+SYN-0658,PUBLIC,True,False,False,True,True,False,False,False,False,False,RARELY,False,False,False,False,False,RARELY,REGULARLY,NEVER,31,MODERATE
+SYN-0659,PUBLIC,False,False,True,True,False,False,False,False,False,False,NEVER,False,False,False,True,False,RARELY,NOT SURE,NEVER,31,MODERATE
+SYN-0660,FRIENDS,True,True,False,False,False,False,True,True,False,False,NEVER,False,False,False,False,False,RARELY,SOMETIMES,NEVER,34,MODERATE
+SYN-0661,PUBLIC,False,False,False,False,False,False,False,False,False,False,RARELY,False,True,False,True,True,SOMETIMES,REGULARLY,REGULARLY,26,MODERATE
+SYN-0662,PRIVATE,False,True,False,False,False,False,True,False,False,False,NEVER,False,False,False,False,True,NEVER,NEVER,SOMETIMES,26,MODERATE
+SYN-0663,FRIENDS,False,False,False,False,False,False,True,False,False,False,SOMETIMES,False,False,False,False,False,SOMETIMES,NEVER,NOT SURE,28,MODERATE
+SYN-0664,FRIENDS,True,True,False,False,True,False,False,False,False,False,NEVER,False,True,False,False,False,RARELY,SOMETIMES,SOMETIMES,31,MODERATE
+SYN-0665,FRIENDS,True,True,False,True,True,False,False,True,False,False,NEVER,False,True,False,False,False,RARELY,SOMETIMES,SOMETIMES,31,MODERATE
+SYN-0666,PUBLIC,False,False,False,False,False,False,False,False,False,True,OFTEN,False,False,True,True,False,OFTEN,NOT SURE,SOMETIMES,28,MODERATE
+SYN-0667,FRIENDS,False,False,False,False,True,False,True,False,True,False,NEVER,False,True,False,False,True,SOMETIMES,REGULARLY,SOMETIMES,34,MODERATE
+SYN-0668,PUBLIC,False,True,False,False,False,False,False,False,False,False,NEVER,False,False,False,True,False,NEVER,REGULARLY,REGULARLY,22,MODERATE
+SYN-0669,PUBLIC,False,False,False,False,True,True,False,False,False,False,SOMETIMES,False,True,True,False,False,RARELY,NOT SURE,NOT SURE,31,MODERATE
+SYN-0670,PRIVATE,False,False,False,False,True,False,False,False,True,False,NEVER,False,False,True,False,True,NEVER,REGULARLY,REGULARLY,20,LOW
+SYN-0671,FRIENDS,False,False,True,True,True,False,True,True,False,False,NEVER,False,True,False,False,True,NEVER,REGULARLY,NEVER,30,MODERATE
+SYN-0672,FRIENDS,False,False,True,False,False,False,True,False,False,False,NEVER,False,False,True,True,False,NEVER,SOMETIMES,SOMETIMES,28,MODERATE
+SYN-0673,FRIENDS,False,False,False,False,False,False,True,False,False,True,NEVER,False,False,False,False,False,NEVER,SOMETIMES,SOMETIMES,30,MODERATE
+SYN-0674,PUBLIC,False,False,False,False,True,False,False,False,False,True,RARELY,False,True,False,True,False,NEVER,NEVER,REGULARLY,27,MODERATE
+SYN-0675,FRIENDS,True,False,False,True,False,True,False,False,False,False,SOMETIMES,False,False,False,True,False,NEVER,SOMETIMES,SOMETIMES,34,MODERATE
+SYN-0676,FRIENDS,False,False,True,False,False,False,False,True,False,False,NEVER,False,False,False,False,False,OFTEN,REGULARLY,REGULARLY,29,MODERATE
+SYN-0677,PUBLIC,False,False,False,False,False,True,False,True,False,False,SOMETIMES,True,True,False,False,False,RARELY,SOMETIMES,SOMETIMES,24,MODERATE
+SYN-0678,FRIENDS,False,False,False,False,False,False,True,False,True,False,NEVER,False,False,False,True,False,NEVER,NEVER,SOMETIMES,24,MODERATE
+SYN-0679,FRIENDS,False,True,False,False,False,False,False,True,False,False,RARELY,False,True,False,False,False,SOMETIMES,NEVER,REGULARLY,31,MODERATE
+SYN-0680,PUBLIC,False,False,False,False,False,True,True,False,False,False,RARELY,False,False,False,False,True,RARELY,REGULARLY,SOMETIMES,30,MODERATE
+SYN-0681,FRIENDS,False,False,False,False,False,False,False,True,True,True,RARELY,False,False,True,True,True,RARELY,NOT SURE,REGULARLY,31,MODERATE
+SYN-0682,PUBLIC,False,False,False,False,False,True,False,False,True,True,SOMETIMES,True,False,True,False,False,NEVER,NEVER,REGULARLY,31,MODERATE
+SYN-0683,PUBLIC,True,False,False,True,True,False,True,True,False,False,RARELY,True,False,True,False,True,SOMETIMES,NOT SURE,SOMETIMES,34,MODERATE
+SYN-0684,FRIENDS,True,False,False,False,False,True,True,False,False,True,SOMETIMES,True,False,True,True,False,NEVER,NEVER,SOMETIMES,31,MODERATE
+SYN-0685,PUBLIC,False,False,True,False,False,False,False,False,False,False,NEVER,False,False,False,False,True,NEVER,REGULARLY,NEVER,30,MODERATE
+SYN-0686,FRIENDS,True,False,True,False,False,False,True,False,False,True,RARELY,False,True,True,False,True,RARELY,SOMETIMES,NEVER,27,MODERATE
+SYN-0687,PUBLIC,False,True,True,False,False,False,False,False,False,True,OFTEN,False,False,True,False,False,SOMETIMES,SOMETIMES,REGULARLY,28,MODERATE
+SYN-0688,PRIVATE,False,True,False,False,False,True,True,False,True,True,NEVER,False,False,True,True,False,RARELY,NEVER,REGULARLY,30,MODERATE
+SYN-0689,FRIENDS,False,False,False,False,False,True,False,False,True,True,RARELY,False,True,False,False,False,SOMETIMES,SOMETIMES,NEVER,30,MODERATE
+SYN-0690,PUBLIC,True,False,False,True,False,False,False,True,True,True,SOMETIMES,False,True,False,True,False,RARELY,REGULARLY,NOT SURE,37,MODERATE
+SYN-0691,FRIENDS,False,True,False,False,False,False,False,False,False,False,RARELY,False,False,True,True,True,RARELY,NEVER,NEVER,24,MODERATE
+SYN-0692,PUBLIC,False,False,False,True,True,False,False,True,True,False,RARELY,True,False,True,False,True,NEVER,REGULARLY,NOT SURE,26,MODERATE
+SYN-0693,PRIVATE,False,False,False,False,True,False,False,True,True,False,NEVER,False,False,True,False,True,RARELY,SOMETIMES,NEVER,24,MODERATE
+SYN-0694,FRIENDS,False,False,False,False,True,False,True,False,False,False,SOMETIMES,False,False,False,False,False,RARELY,SOMETIMES,SOMETIMES,29,MODERATE
+SYN-0695,FRIENDS,False,True,False,False,True,False,False,False,False,False,OFTEN,False,True,True,True,True,NEVER,REGULARLY,NEVER,26,MODERATE
+SYN-0696,FRIENDS,True,False,False,True,True,False,False,True,False,True,OFTEN,False,False,False,True,False,SOMETIMES,SOMETIMES,NEVER,34,MODERATE
+SYN-0697,PUBLIC,False,True,False,False,False,False,False,False,False,False,NEVER,False,False,False,False,False,NEVER,SOMETIMES,SOMETIMES,25,MODERATE
+SYN-0698,PUBLIC,False,False,False,False,False,False,False,False,True,False,SOMETIMES,False,False,True,False,False,SOMETIMES,SOMETIMES,SOMETIMES,31,MODERATE
+SYN-0699,PRIVATE,False,False,False,True,False,False,False,True,False,False,NEVER,False,False,True,False,False,NEVER,SOMETIMES,REGULARLY,27,MODERATE
+SYN-0700,PUBLIC,True,False,False,True,False,False,True,False,True,False,SOMETIMES,False,True,True,True,True,RARELY,NEVER,SOMETIMES,32,MODERATE
+SYN-0701,FRIENDS,False,True,True,True,False,False,True,False,True,True,RARELY,False,False,True,True,True,SOMETIMES,SOMETIMES,NEVER,33,MODERATE
+SYN-0702,FRIENDS,False,False,False,False,True,True,False,True,False,False,NEVER,False,True,True,False,False,NEVER,SOMETIMES,NEVER,21,MODERATE
+SYN-0703,FRIENDS,False,True,True,True,False,False,False,False,False,False,NEVER,False,False,True,True,False,RARELY,REGULARLY,REGULARLY,25,MODERATE
+SYN-0704,FRIENDS,True,True,False,False,False,True,True,False,False,False,NEVER,False,False,False,False,False,RARELY,SOMETIMES,SOMETIMES,26,MODERATE
+SYN-0705,PRIVATE,False,False,False,True,False,False,False,False,True,True,RARELY,False,False,False,False,False,SOMETIMES,NEVER,REGULARLY,37,MODERATE
+SYN-0706,PUBLIC,False,False,False,False,False,True,False,False,False,True,NEVER,False,True,False,True,False,RARELY,SOMETIMES,NEVER,26,MODERATE
+SYN-0707,FRIENDS,True,False,False,False,True,False,False,False,False,False,SOMETIMES,True,False,True,True,True,NEVER,NEVER,NEVER,28,MODERATE
+SYN-0708,FRIENDS,False,False,False,True,False,True,False,False,False,False,OFTEN,False,True,False,False,True,OFTEN,SOMETIMES,REGULARLY,31,MODERATE
+SYN-0709,FRIENDS,False,False,False,False,False,True,True,False,False,False,RARELY,False,False,True,True,False,RARELY,SOMETIMES,SOMETIMES,24,MODERATE
+SYN-0710,FRIENDS,False,False,False,True,False,False,False,False,False,False,SOMETIMES,False,True,False,False,False,NEVER,REGULARLY,SOMETIMES,28,MODERATE
+SYN-0711,PUBLIC,False,False,False,False,True,False,False,False,False,False,NEVER,True,True,True,False,False,SOMETIMES,SOMETIMES,REGULARLY,22,MODERATE
+SYN-0712,PUBLIC,True,True,True,False,False,True,True,False,False,False,SOMETIMES,False,False,False,False,True,NEVER,SOMETIMES,REGULARLY,38,MODERATE
+SYN-0713,PUBLIC,False,False,False,True,False,False,False,True,False,False,NEVER,False,False,False,False,False,RARELY,REGULARLY,SOMETIMES,25,MODERATE
+SYN-0714,FRIENDS,True,False,False,False,False,False,False,False,False,False,NEVER,False,False,True,False,False,SOMETIMES,SOMETIMES,SOMETIMES,19,LOW
+SYN-0715,FRIENDS,False,False,False,False,False,True,False,False,True,False,SOMETIMES,True,False,True,True,False,NEVER,SOMETIMES,REGULARLY,25,MODERATE
+SYN-0716,FRIENDS,False,True,False,True,False,False,False,False,False,False,NEVER,True,False,True,False,False,RARELY,REGULARLY,REGULARLY,23,MODERATE
+SYN-0717,PRIVATE,False,True,False,False,False,False,False,False,False,False,OFTEN,False,False,False,False,False,NEVER,NEVER,SOMETIMES,28,MODERATE
+SYN-0718,FRIENDS,False,False,False,False,False,False,True,False,False,False,NEVER,False,True,False,False,False,RARELY,SOMETIMES,REGULARLY,18,LOW
+SYN-0719,FRIENDS,False,True,False,True,True,False,False,True,False,False,SOMETIMES,False,False,True,False,False,SOMETIMES,NEVER,REGULARLY,30,MODERATE
+SYN-0720,PUBLIC,False,False,False,False,False,False,False,True,True,False,RARELY,False,True,True,False,False,NEVER,REGULARLY,NEVER,25,MODERATE
+SYN-0721,FRIENDS,False,False,False,False,False,False,True,False,False,True,OFTEN,False,True,False,True,False,RARELY,SOMETIMES,SOMETIMES,30,MODERATE
+SYN-0722,PRIVATE,False,False,False,True,False,False,True,True,False,False,RARELY,False,False,True,False,False,RARELY,NEVER,REGULARLY,28,MODERATE
+SYN-0723,PUBLIC,True,True,False,False,False,False,False,False,False,True,RARELY,False,True,True,False,False,NEVER,NEVER,REGULARLY,30,MODERATE
+SYN-0724,PUBLIC,False,False,False,True,False,True,False,False,False,False,NEVER,False,False,False,True,False,RARELY,REGULARLY,NOT SURE,20,LOW
+SYN-0725,FRIENDS,False,False,True,True,False,False,False,False,False,True,OFTEN,False,False,False,True,False,RARELY,SOMETIMES,REGULARLY,35,MODERATE
+SYN-0726,FRIENDS,True,False,True,False,False,False,False,False,True,False,NEVER,False,True,False,True,False,NEVER,SOMETIMES,NOT SURE,28,MODERATE
+SYN-0727,PRIVATE,False,True,False,False,False,False,False,False,False,True,RARELY,False,True,False,False,False,RARELY,SOMETIMES,NEVER,30,MODERATE
+SYN-0728,FRIENDS,True,False,True,False,True,False,False,False,False,False,RARELY,False,False,False,False,False,RARELY,REGULARLY,REGULARLY,22,MODERATE
+SYN-0729,FRIENDS,False,False,False,False,False,False,False,False,False,False,RARELY,False,True,True,True,False,RARELY,NOT SURE,REGULARLY,20,LOW
+SYN-0730,PRIVATE,False,False,False,False,True,False,False,False,False,False,RARELY,False,False,False,False,False,NEVER,SOMETIMES,SOMETIMES,21,MODERATE
+SYN-0731,PRIVATE,False,False,False,False,False,False,False,False,False,False,SOMETIMES,True,False,True,False,True,NEVER,SOMETIMES,SOMETIMES,20,LOW
+SYN-0732,PUBLIC,False,True,False,False,False,False,True,False,False,True,SOMETIMES,False,False,False,False,False,SOMETIMES,REGULARLY,SOMETIMES,27,MODERATE
+SYN-0733,FRIENDS,False,False,False,False,False,False,True,False,False,False,NEVER,False,False,False,False,True,SOMETIMES,REGULARLY,NEVER,27,MODERATE
+SYN-0734,FRIENDS,False,False,False,False,True,False,False,False,False,False,NEVER,False,True,False,False,False,RARELY,SOMETIMES,SOMETIMES,23,MODERATE
+SYN-0735,FRIENDS,False,False,False,False,False,True,True,False,False,True,RARELY,False,False,True,False,False,RARELY,REGULARLY,NOT SURE,25,MODERATE
+SYN-0736,PUBLIC,False,True,False,False,False,True,False,True,False,False,NEVER,False,False,True,False,False,SOMETIMES,SOMETIMES,SOMETIMES,24,MODERATE
+SYN-0737,PUBLIC,True,False,False,False,False,False,False,False,False,True,RARELY,False,True,True,False,True,NEVER,NEVER,NEVER,29,MODERATE
+SYN-0738,PUBLIC,False,False,False,False,False,False,False,False,False,False,NEVER,True,False,False,False,False,NEVER,REGULARLY,SOMETIMES,22,MODERATE
+SYN-0739,FRIENDS,False,False,False,False,False,False,True,False,False,False,NEVER,False,False,False,False,True,SOMETIMES,REGULARLY,REGULARLY,28,MODERATE
+SYN-0740,PUBLIC,False,False,True,False,False,False,False,False,False,False,RARELY,False,True,False,False,False,SOMETIMES,REGULARLY,REGULARLY,30,MODERATE
+SYN-0741,PUBLIC,False,False,False,False,True,False,False,False,True,True,RARELY,False,True,False,False,False,NEVER,SOMETIMES,REGULARLY,30,MODERATE
+SYN-0742,FRIENDS,False,False,False,False,True,True,False,False,False,False,RARELY,False,False,False,True,False,RARELY,REGULARLY,REGULARLY,20,LOW
+SYN-0743,FRIENDS,True,False,False,False,False,False,True,False,True,False,RARELY,False,True,False,True,True,RARELY,REGULARLY,NEVER,29,MODERATE
+SYN-0744,FRIENDS,False,False,False,True,True,False,False,False,False,False,RARELY,False,False,False,True,False,RARELY,SOMETIMES,SOMETIMES,23,MODERATE
+SYN-0745,PRIVATE,False,False,True,True,False,False,False,False,False,False,SOMETIMES,False,False,False,False,False,NEVER,REGULARLY,SOMETIMES,28,MODERATE
+SYN-0746,FRIENDS,False,False,False,True,False,False,True,False,False,False,SOMETIMES,False,True,False,False,False,RARELY,REGULARLY,REGULARLY,24,MODERATE
+SYN-0747,FRIENDS,True,True,False,True,True,False,False,False,False,False,RARELY,True,False,False,False,True,SOMETIMES,REGULARLY,REGULARLY,29,MODERATE
+SYN-0748,PUBLIC,False,False,False,False,False,True,True,False,False,False,NEVER,True,True,False,True,False,NEVER,SOMETIMES,REGULARLY,19,LOW
+SYN-0749,PUBLIC,False,False,False,False,True,False,False,False,False,True,NEVER,True,True,True,False,False,SOMETIMES,REGULARLY,NOT SURE,25,MODERATE
+SYN-0750,PUBLIC,False,False,False,True,True,True,False,False,False,False,SOMETIMES,True,False,False,True,False,NEVER,REGULARLY,NOT SURE,28,MODERATE
+SYN-0751,PUBLIC,False,False,True,False,True,False,False,False,False,False,SOMETIMES,True,False,True,False,False,RARELY,SOMETIMES,SOMETIMES,29,MODERATE
+SYN-0752,FRIENDS,False,True,False,False,False,False,False,False,False,False,RARELY,True,True,True,True,False,NEVER,REGULARLY,REGULARLY,18,LOW
+SYN-0753,FRIENDS,False,False,True,False,False,True,False,True,True,True,RARELY,False,True,True,False,False,RARELY,SOMETIMES,REGULARLY,28,MODERATE
+SYN-0754,PUBLIC,False,False,False,False,True,False,False,False,True,False,OFTEN,True,True,False,False,False,RARELY,NEVER,REGULARLY,32,MODERATE
+SYN-0755,PUBLIC,False,False,False,False,False,True,False,True,False,False,NEVER,False,False,False,True,False,NEVER,REGULARLY,REGULARLY,16,LOW
+SYN-0756,PUBLIC,False,False,True,False,False,False,False,False,False,True,OFTEN,False,False,False,True,False,NEVER,REGULARLY,REGULARLY,32,MODERATE
+SYN-0757,FRIENDS,False,False,True,False,False,False,True,False,False,False,RARELY,False,False,True,True,False,NEVER,SOMETIMES,SOMETIMES,27,MODERATE
+SYN-0758,FRIENDS,False,False,False,False,False,False,True,False,True,False,SOMETIMES,False,True,False,True,True,NEVER,SOMETIMES,SOMETIMES,29,MODERATE
+SYN-0759,PRIVATE,False,False,False,False,True,False,False,False,False,True,SOMETIMES,False,True,False,False,False,RARELY,REGULARLY,REGULARLY,28,MODERATE
+SYN-0760,PUBLIC,False,False,False,False,False,False,False,True,True,False,NEVER,False,True,True,False,False,NEVER,REGULARLY,SOMETIMES,21,MODERATE
+SYN-0761,PUBLIC,False,False,False,False,False,True,True,False,False,True,NEVER,True,False,True,False,False,NEVER,NEVER,REGULARLY,26,MODERATE
+SYN-0762,FRIENDS,False,False,True,False,True,False,False,True,False,False,SOMETIMES,False,False,True,True,False,RARELY,REGULARLY,REGULARLY,23,MODERATE
+SYN-0763,PUBLIC,True,False,False,False,False,True,False,False,False,False,NEVER,False,False,False,False,False,RARELY,REGULARLY,REGULARLY,31,MODERATE
+SYN-0764,PRIVATE,True,False,False,False,False,False,False,False,False,False,NEVER,False,False,True,False,False,RARELY,SOMETIMES,REGULARLY,23,MODERATE
+SYN-0765,FRIENDS,False,False,False,True,False,False,False,False,False,False,SOMETIMES,False,True,False,False,False,RARELY,REGULARLY,SOMETIMES,25,MODERATE
+SYN-0766,PRIVATE,False,False,False,False,False,True,True,False,False,False,SOMETIMES,False,True,True,False,False,NEVER,NEVER,SOMETIMES,27,MODERATE
+SYN-0767,PUBLIC,False,False,True,False,True,False,False,False,False,False,RARELY,False,True,True,False,False,NEVER,NEVER,REGULARLY,22,MODERATE
+SYN-0768,PUBLIC,False,False,True,False,False,False,False,False,False,False,SOMETIMES,False,True,True,True,False,RARELY,SOMETIMES,REGULARLY,25,MODERATE
+SYN-0769,FRIENDS,False,False,False,True,False,False,False,False,False,False,SOMETIMES,False,False,True,True,False,NEVER,NEVER,SOMETIMES,28,MODERATE
+SYN-0770,PRIVATE,False,False,False,False,True,False,False,False,False,False,SOMETIMES,False,False,False,True,False,NEVER,NEVER,NOT SURE,25,MODERATE
+SYN-0771,PUBLIC,False,False,False,False,False,False,True,False,False,False,RARELY,False,False,False,False,False,RARELY,NEVER,SOMETIMES,27,MODERATE
+SYN-0772,PUBLIC,False,False,False,False,True,False,False,False,True,False,SOMETIMES,False,False,True,False,True,RARELY,REGULARLY,REGULARLY,29,MODERATE
+SYN-0773,PUBLIC,False,False,False,True,False,False,False,False,False,False,SOMETIMES,False,False,False,False,True,NEVER,SOMETIMES,SOMETIMES,28,MODERATE
+SYN-0774,PUBLIC,False,False,True,False,False,False,False,False,False,True,NEVER,False,False,False,False,False,RARELY,NEVER,NEVER,24,MODERATE
+SYN-0775,PUBLIC,True,False,False,True,False,False,True,False,False,False,RARELY,False,False,True,False,False,NEVER,REGULARLY,NOT SURE,27,MODERATE
+SYN-0776,FRIENDS,False,False,False,True,True,True,True,True,False,False,SOMETIMES,False,True,False,True,False,NEVER,SOMETIMES,REGULARLY,31,MODERATE
+SYN-0777,PRIVATE,False,False,False,False,True,False,False,True,False,False,RARELY,True,False,True,False,False,NEVER,NOT SURE,SOMETIMES,22,MODERATE
+SYN-0778,PRIVATE,False,True,False,False,False,False,False,False,False,False,NEVER,False,False,True,True,False,SOMETIMES,NOT SURE,REGULARLY,19,LOW
+SYN-0779,PUBLIC,False,False,False,False,False,True,False,False,False,False,SOMETIMES,True,True,False,False,False,SOMETIMES,REGULARLY,NEVER,31,MODERATE
+SYN-0780,PUBLIC,False,True,False,False,True,False,False,False,False,False,NEVER,True,False,True,True,True,SOMETIMES,SOMETIMES,REGULARLY,21,MODERATE
+SYN-0781,FRIENDS,False,False,False,False,False,False,True,True,True,True,NEVER,True,False,False,True,False,NEVER,SOMETIMES,SOMETIMES,28,MODERATE
+SYN-0782,PUBLIC,False,False,False,False,False,False,True,False,False,False,NEVER,False,True,False,True,True,SOMETIMES,NOT SURE,REGULARLY,24,MODERATE
+SYN-0783,FRIENDS,False,False,False,False,False,False,True,False,False,False,RARELY,False,False,False,True,False,RARELY,NEVER,SOMETIMES,24,MODERATE
+SYN-0784,FRIENDS,True,True,False,True,False,False,False,False,True,True,SOMETIMES,False,False,False,False,True,RARELY,NEVER,REGULARLY,33,MODERATE
+SYN-0785,FRIENDS,False,False,False,False,False,True,False,True,False,False,NEVER,False,True,False,False,True,SOMETIMES,REGULARLY,SOMETIMES,34,MODERATE
+SYN-0786,PUBLIC,False,False,True,True,False,False,False,False,False,True,NEVER,False,False,False,True,True,NEVER,REGULARLY,SOMETIMES,28,MODERATE
+SYN-0787,PUBLIC,False,False,False,True,True,False,False,False,False,False,NEVER,False,True,False,False,False,SOMETIMES,REGULARLY,REGULARLY,25,MODERATE
+SYN-0788,PUBLIC,True,False,True,False,True,False,True,True,False,True,RARELY,False,False,False,False,True,RARELY,NOT SURE,REGULARLY,40,MODERATE
+SYN-0789,PUBLIC,False,True,True,False,False,False,True,True,False,False,NEVER,False,False,False,False,True,RARELY,REGULARLY,SOMETIMES,33,MODERATE
+SYN-0790,PRIVATE,False,True,False,False,False,False,False,False,False,False,NEVER,False,True,False,False,False,RARELY,SOMETIMES,REGULARLY,21,MODERATE
+SYN-0791,PUBLIC,False,False,True,False,False,False,False,False,False,True,OFTEN,False,False,False,True,True,RARELY,NEVER,SOMETIMES,33,MODERATE
+SYN-0792,PRIVATE,True,True,False,False,False,False,False,False,False,True,RARELY,False,False,True,True,False,NEVER,REGULARLY,NOT SURE,23,MODERATE
+SYN-0793,PUBLIC,False,False,False,False,False,False,False,False,False,False,NEVER,False,False,False,False,False,RARELY,SOMETIMES,REGULARLY,25,MODERATE
+SYN-0794,PRIVATE,True,False,True,False,False,False,False,False,True,False,OFTEN,False,False,False,False,True,RARELY,REGULARLY,REGULARLY,33,MODERATE
+SYN-0795,FRIENDS,False,True,False,False,False,False,False,False,False,False,SOMETIMES,False,True,False,True,False,RARELY,SOMETIMES,SOMETIMES,26,MODERATE
+SYN-0796,PUBLIC,False,False,True,False,True,True,True,False,False,True,RARELY,True,False,False,False,True,RARELY,SOMETIMES,SOMETIMES,37,MODERATE
+SYN-0797,FRIENDS,False,False,False,False,False,False,False,False,True,False,SOMETIMES,False,False,True,True,True,SOMETIMES,REGULARLY,SOMETIMES,27,MODERATE
+SYN-0798,FRIENDS,False,False,False,False,False,False,False,True,False,False,RARELY,False,False,True,True,False,NEVER,REGULARLY,SOMETIMES,24,MODERATE
+SYN-0799,PRIVATE,False,True,False,False,False,True,True,False,True,False,RARELY,False,False,True,True,False,RARELY,SOMETIMES,SOMETIMES,27,MODERATE
+SYN-0800,PUBLIC,False,False,True,True,False,False,False,False,False,False,RARELY,False,False,False,True,True,SOMETIMES,SOMETIMES,SOMETIMES,31,MODERATE
+SYN-0801,PUBLIC,False,True,False,False,True,True,False,False,False,False,RARELY,True,False,True,False,False,NEVER,NEVER,NEVER,25,MODERATE
+SYN-0802,FRIENDS,False,False,False,False,False,False,True,True,False,False,NEVER,False,True,False,False,False,NEVER,SOMETIMES,SOMETIMES,25,MODERATE
+SYN-0803,PUBLIC,False,False,True,False,False,False,True,False,True,False,SOMETIMES,False,False,False,False,False,NEVER,REGULARLY,REGULARLY,30,MODERATE
+SYN-0804,FRIENDS,True,False,False,True,False,False,False,False,False,True,RARELY,True,False,False,False,False,SOMETIMES,REGULARLY,REGULARLY,30,MODERATE
+SYN-0805,PUBLIC,True,False,False,False,True,False,True,True,False,False,OFTEN,False,True,False,False,False,NEVER,REGULARLY,REGULARLY,32,MODERATE
+SYN-0806,FRIENDS,False,False,True,True,False,False,False,False,False,False,NEVER,False,False,True,True,False,NEVER,NEVER,REGULARLY,25,MODERATE
+SYN-0807,PUBLIC,False,False,False,True,False,True,True,False,True,False,RARELY,True,False,False,False,False,NEVER,REGULARLY,NEVER,29,MODERATE
+SYN-0808,PRIVATE,False,True,True,False,True,False,False,False,True,False,RARELY,True,True,False,True,False,RARELY,SOMETIMES,SOMETIMES,25,MODERATE
+SYN-0809,PUBLIC,False,False,True,False,False,False,True,False,False,False,SOMETIMES,True,True,True,False,False,RARELY,SOMETIMES,NEVER,27,MODERATE
+SYN-0810,PUBLIC,True,False,False,True,False,False,False,False,False,True,SOMETIMES,False,False,True,True,True,RARELY,NEVER,NEVER,32,MODERATE
+SYN-0811,PUBLIC,False,False,False,True,True,False,False,True,False,False,RARELY,False,False,True,False,False,SOMETIMES,REGULARLY,SOMETIMES,29,MODERATE
+SYN-0812,FRIENDS,False,False,False,True,True,False,False,True,True,False,SOMETIMES,True,True,False,True,True,NEVER,NEVER,SOMETIMES,32,MODERATE
+SYN-0813,PUBLIC,False,True,False,False,False,False,False,False,False,True,NEVER,True,True,False,True,False,NEVER,NEVER,REGULARLY,28,MODERATE
+SYN-0814,FRIENDS,False,True,True,False,True,False,False,False,False,False,RARELY,True,False,False,False,False,NEVER,REGULARLY,REGULARLY,30,MODERATE
+SYN-0815,PUBLIC,False,False,False,True,False,False,False,False,False,False,OFTEN,True,False,False,False,False,RARELY,NOT SURE,REGULARLY,35,MODERATE
+SYN-0816,PUBLIC,False,False,False,False,True,False,False,False,False,False,OFTEN,False,True,False,False,False,RARELY,REGULARLY,REGULARLY,23,MODERATE
+SYN-0817,PUBLIC,False,False,True,True,True,False,False,False,True,False,NEVER,False,True,False,False,False,RARELY,NEVER,SOMETIMES,35,MODERATE
+SYN-0818,PRIVATE,False,True,False,False,False,True,False,False,False,False,NEVER,True,True,True,False,False,NEVER,NEVER,NEVER,25,MODERATE
+SYN-0819,FRIENDS,False,True,False,True,True,False,True,False,False,False,SOMETIMES,True,False,True,False,False,NEVER,SOMETIMES,SOMETIMES,31,MODERATE
+SYN-0820,PUBLIC,False,True,False,False,True,False,True,True,False,False,OFTEN,False,False,True,False,False,RARELY,SOMETIMES,SOMETIMES,27,MODERATE
+SYN-0821,PUBLIC,True,True,True,False,True,True,False,True,False,True,OFTEN,False,True,False,False,False,NEVER,SOMETIMES,REGULARLY,41,HIGH
+SYN-0822,FRIENDS,False,False,False,True,False,True,False,False,False,False,SOMETIMES,True,True,False,False,False,OFTEN,REGULARLY,SOMETIMES,26,MODERATE
+SYN-0823,FRIENDS,False,False,False,False,True,False,False,True,True,False,NEVER,False,True,False,True,False,RARELY,REGULARLY,REGULARLY,25,MODERATE
+SYN-0824,PUBLIC,True,False,True,False,True,False,False,False,True,False,RARELY,False,False,False,False,False,SOMETIMES,NEVER,SOMETIMES,37,MODERATE
+SYN-0825,PUBLIC,True,False,True,True,True,False,False,False,False,False,RARELY,False,True,False,False,False,RARELY,SOMETIMES,REGULARLY,32,MODERATE
+SYN-0826,PUBLIC,True,False,False,False,False,False,False,True,False,False,RARELY,False,False,False,True,False,OFTEN,REGULARLY,SOMETIMES,27,MODERATE
+SYN-0827,PUBLIC,False,False,False,False,True,False,False,False,False,False,SOMETIMES,True,False,False,True,True,SOMETIMES,SOMETIMES,NOT SURE,35,MODERATE
+SYN-0828,FRIENDS,True,False,False,False,False,False,False,False,True,False,RARELY,False,True,True,False,True,NEVER,NEVER,REGULARLY,28,MODERATE
+SYN-0829,PUBLIC,False,False,False,False,False,True,False,True,False,False,NEVER,False,False,False,False,True,NEVER,REGULARLY,SOMETIMES,29,MODERATE
+SYN-0830,PRIVATE,False,False,False,False,True,False,False,True,False,True,NEVER,False,False,False,False,False,NEVER,SOMETIMES,NOT SURE,22,MODERATE
+SYN-0831,PUBLIC,False,False,False,False,False,False,False,False,False,False,RARELY,False,False,False,False,False,SOMETIMES,SOMETIMES,REGULARLY,29,MODERATE
+SYN-0832,FRIENDS,True,False,True,False,False,True,False,False,False,False,NEVER,False,False,False,False,False,NEVER,SOMETIMES,SOMETIMES,25,MODERATE
+SYN-0833,PUBLIC,False,True,False,False,False,True,False,False,False,False,OFTEN,True,False,True,False,False,RARELY,REGULARLY,SOMETIMES,32,MODERATE
+SYN-0834,PUBLIC,False,False,False,True,False,False,False,False,False,False,NEVER,True,False,False,False,False,NEVER,SOMETIMES,NEVER,23,MODERATE
+SYN-0835,PUBLIC,False,True,False,False,False,True,True,False,False,False,SOMETIMES,False,False,False,True,False,NEVER,REGULARLY,NEVER,32,MODERATE
+SYN-0836,FRIENDS,False,False,True,False,False,False,False,False,False,False,NEVER,False,False,False,True,True,RARELY,REGULARLY,REGULARLY,23,MODERATE
+SYN-0837,PRIVATE,False,False,False,False,True,False,True,False,False,False,NEVER,False,False,True,False,False,RARELY,REGULARLY,REGULARLY,21,MODERATE
+SYN-0838,PUBLIC,False,False,False,False,False,False,False,False,False,False,RARELY,True,False,False,False,False,NEVER,NOT SURE,SOMETIMES,24,MODERATE
+SYN-0839,FRIENDS,True,True,False,False,False,True,False,False,False,False,RARELY,True,False,False,True,False,RARELY,REGULARLY,SOMETIMES,22,MODERATE
+SYN-0840,PRIVATE,False,True,True,False,True,True,False,False,False,True,NEVER,True,False,False,False,False,NEVER,REGULARLY,REGULARLY,22,MODERATE
+SYN-0841,PUBLIC,False,False,False,True,False,False,True,False,True,False,RARELY,True,False,False,True,False,NEVER,SOMETIMES,NEVER,33,MODERATE
+SYN-0842,FRIENDS,False,False,False,True,False,True,True,False,False,True,NEVER,False,False,True,False,False,RARELY,REGULARLY,REGULARLY,31,MODERATE
+SYN-0843,PUBLIC,False,False,False,False,False,True,False,False,False,False,OFTEN,False,False,True,False,False,OFTEN,SOMETIMES,SOMETIMES,27,MODERATE
+SYN-0844,FRIENDS,True,False,True,True,False,False,False,False,False,False,NEVER,False,True,False,False,False,NEVER,SOMETIMES,SOMETIMES,26,MODERATE
+SYN-0845,PUBLIC,False,False,False,False,True,False,False,False,False,True,SOMETIMES,False,False,False,False,False,SOMETIMES,REGULARLY,SOMETIMES,29,MODERATE
+SYN-0846,PUBLIC,False,True,False,False,False,False,True,True,False,False,NEVER,False,False,True,False,False,RARELY,NEVER,REGULARLY,28,MODERATE
+SYN-0847,PUBLIC,False,False,False,False,False,False,False,False,False,False,SOMETIMES,False,True,True,False,False,RARELY,SOMETIMES,NOT SURE,29,MODERATE
+SYN-0848,FRIENDS,False,False,False,True,True,True,False,False,True,False,SOMETIMES,False,False,False,False,False,NEVER,REGULARLY,NEVER,28,MODERATE
+SYN-0849,PUBLIC,False,False,False,False,True,True,False,False,False,False,RARELY,False,True,True,False,False,OFTEN,REGULARLY,REGULARLY,27,MODERATE
+SYN-0850,PUBLIC,False,False,False,False,False,False,True,False,False,False,RARELY,False,False,True,True,False,NEVER,SOMETIMES,SOMETIMES,27,MODERATE
+SYN-0851,FRIENDS,False,False,False,True,False,False,True,False,False,False,RARELY,False,False,True,False,True,NEVER,REGULARLY,REGULARLY,30,MODERATE
+SYN-0852,FRIENDS,False,False,False,False,True,True,False,False,False,False,RARELY,False,False,False,False,True,NEVER,SOMETIMES,NOT SURE,23,MODERATE
+SYN-0853,PRIVATE,True,False,False,False,False,True,False,False,True,True,RARELY,False,False,False,False,False,SOMETIMES,NOT SURE,REGULARLY,24,MODERATE
+SYN-0854,FRIENDS,False,False,False,False,False,False,False,False,False,True,RARELY,False,False,False,False,False,RARELY,REGULARLY,REGULARLY,32,MODERATE
+SYN-0855,PUBLIC,False,True,False,False,False,False,False,False,False,True,RARELY,False,True,True,False,False,RARELY,SOMETIMES,SOMETIMES,26,MODERATE
+SYN-0856,PRIVATE,False,False,True,False,False,False,True,False,False,False,RARELY,False,False,False,False,False,NEVER,REGULARLY,REGULARLY,28,MODERATE
+SYN-0857,PUBLIC,False,False,False,False,False,False,False,False,False,False,RARELY,False,False,True,True,False,NEVER,REGULARLY,NEVER,27,MODERATE
+SYN-0858,FRIENDS,False,True,False,False,False,True,True,False,False,False,RARELY,False,False,False,True,True,NEVER,REGULARLY,REGULARLY,31,MODERATE
+SYN-0859,PUBLIC,True,False,False,False,False,False,False,True,False,False,NEVER,False,False,False,False,False,RARELY,REGULARLY,REGULARLY,30,MODERATE
+SYN-0860,FRIENDS,False,False,False,False,True,False,False,False,False,False,SOMETIMES,False,False,True,False,False,RARELY,SOMETIMES,REGULARLY,25,MODERATE
+SYN-0861,PUBLIC,False,False,False,False,False,True,False,True,True,False,NEVER,False,True,False,True,True,NEVER,SOMETIMES,SOMETIMES,32,MODERATE
+SYN-0862,PUBLIC,False,True,True,False,False,False,False,False,False,False,OFTEN,False,False,True,False,False,NEVER,REGULARLY,REGULARLY,24,MODERATE
+SYN-0863,PUBLIC,False,False,False,False,False,False,True,False,True,True,RARELY,True,False,False,True,False,OFTEN,REGULARLY,SOMETIMES,26,MODERATE
+SYN-0864,PUBLIC,False,False,False,False,False,True,False,False,True,False,RARELY,False,False,False,False,False,SOMETIMES,SOMETIMES,NEVER,24,MODERATE
+SYN-0865,FRIENDS,False,False,True,False,False,True,False,False,False,False,RARELY,False,False,False,False,False,SOMETIMES,SOMETIMES,SOMETIMES,28,MODERATE
+SYN-0866,FRIENDS,False,False,False,False,False,True,False,False,False,True,RARELY,False,False,True,True,True,RARELY,NEVER,REGULARLY,31,MODERATE
+SYN-0867,PUBLIC,False,False,False,True,False,False,False,False,True,True,RARELY,False,False,False,True,False,RARELY,SOMETIMES,REGULARLY,33,MODERATE
+SYN-0868,PUBLIC,True,False,False,False,False,False,False,True,False,False,SOMETIMES,True,True,False,False,False,NEVER,REGULARLY,REGULARLY,30,MODERATE
+SYN-0869,FRIENDS,True,False,False,False,True,True,False,False,True,False,NEVER,True,False,True,False,False,RARELY,REGULARLY,NOT SURE,25,MODERATE
+SYN-0870,FRIENDS,False,False,False,False,False,False,False,True,False,False,OFTEN,False,False,False,True,False,NEVER,SOMETIMES,NOT SURE,27,MODERATE
+SYN-0871,FRIENDS,False,False,True,False,False,False,True,True,False,False,RARELY,False,True,False,False,True,OFTEN,SOMETIMES,REGULARLY,31,MODERATE
+SYN-0872,FRIENDS,False,False,False,False,False,True,False,False,False,False,RARELY,False,False,False,True,False,SOMETIMES,NOT SURE,REGULARLY,29,MODERATE
+SYN-0873,PRIVATE,False,False,True,False,False,False,False,True,False,False,NEVER,True,True,False,True,False,NEVER,SOMETIMES,REGULARLY,22,MODERATE
+SYN-0874,PUBLIC,False,False,True,False,True,True,False,True,False,False,NEVER,False,False,True,False,False,RARELY,SOMETIMES,REGULARLY,36,MODERATE
+SYN-0875,PUBLIC,False,True,False,True,False,True,False,False,False,False,RARELY,False,True,False,False,False,RARELY,REGULARLY,SOMETIMES,23,MODERATE
+SYN-0876,FRIENDS,True,False,False,False,False,True,False,False,True,False,NEVER,True,False,False,False,False,SOMETIMES,SOMETIMES,SOMETIMES,30,MODERATE
+SYN-0877,PUBLIC,False,False,False,False,False,False,True,True,True,False,NEVER,False,False,False,True,False,RARELY,REGULARLY,NOT SURE,22,MODERATE
+SYN-0878,PUBLIC,False,False,False,False,True,True,False,False,True,False,NEVER,False,True,False,False,False,RARELY,REGULARLY,REGULARLY,30,MODERATE
+SYN-0879,PRIVATE,True,False,False,False,False,False,False,True,True,False,RARELY,False,True,True,True,False,NEVER,NEVER,SOMETIMES,23,MODERATE
+SYN-0880,PUBLIC,False,False,False,False,True,False,False,False,False,False,SOMETIMES,False,True,False,False,False,RARELY,SOMETIMES,SOMETIMES,26,MODERATE
+SYN-0881,FRIENDS,False,True,False,True,False,False,False,True,False,False,RARELY,False,True,True,False,False,NEVER,SOMETIMES,NOT SURE,26,MODERATE
+SYN-0882,FRIENDS,False,False,False,True,True,False,False,False,False,False,NEVER,False,True,False,False,False,NEVER,SOMETIMES,SOMETIMES,25,MODERATE
+SYN-0883,FRIENDS,False,True,False,False,False,False,False,False,False,False,RARELY,False,True,False,False,False,RARELY,NOT SURE,NEVER,20,LOW
+SYN-0884,PRIVATE,False,False,False,False,True,True,False,False,False,False,RARELY,False,True,True,False,False,RARELY,SOMETIMES,REGULARLY,28,MODERATE
+SYN-0885,PRIVATE,False,False,True,False,False,False,False,False,True,False,NEVER,False,True,False,False,True,SOMETIMES,REGULARLY,SOMETIMES,26,MODERATE
+SYN-0886,PRIVATE,False,False,True,False,True,True,False,False,False,False,NEVER,False,False,False,False,False,NEVER,REGULARLY,NOT SURE,23,MODERATE
+SYN-0887,FRIENDS,True,False,False,False,False,False,False,False,False,True,SOMETIMES,False,False,False,False,True,OFTEN,NEVER,REGULARLY,34,MODERATE
+SYN-0888,PUBLIC,False,False,True,True,False,True,True,False,True,True,RARELY,False,False,False,True,False,NEVER,NEVER,REGULARLY,38,MODERATE
+SYN-0889,PUBLIC,True,True,False,False,True,False,False,False,False,False,SOMETIMES,False,False,False,False,False,SOMETIMES,SOMETIMES,NEVER,37,MODERATE
+SYN-0890,PUBLIC,False,False,False,False,True,True,False,True,False,True,OFTEN,False,False,False,False,False,NEVER,SOMETIMES,SOMETIMES,29,MODERATE
+SYN-0891,FRIENDS,True,False,False,False,True,True,False,True,False,False,RARELY,False,True,False,True,False,RARELY,NOT SURE,SOMETIMES,22,MODERATE
+SYN-0892,PRIVATE,True,False,False,False,False,False,False,False,True,False,RARELY,False,True,False,False,False,NEVER,NEVER,REGULARLY,28,MODERATE
+SYN-0893,FRIENDS,True,False,True,False,True,False,True,True,False,False,OFTEN,False,True,False,True,False,SOMETIMES,REGULARLY,NEVER,36,MODERATE
+SYN-0894,PUBLIC,False,False,False,False,False,False,False,False,False,False,RARELY,False,True,False,True,False,RARELY,NOT SURE,NEVER,21,MODERATE
+SYN-0895,FRIENDS,False,False,False,False,False,True,False,False,False,False,RARELY,False,False,False,False,True,RARELY,NOT SURE,SOMETIMES,34,MODERATE
+SYN-0896,PUBLIC,False,False,False,False,False,False,False,True,False,False,SOMETIMES,False,True,True,False,True,RARELY,SOMETIMES,SOMETIMES,24,MODERATE
+SYN-0897,FRIENDS,False,False,False,False,False,True,False,False,True,False,SOMETIMES,False,False,False,True,True,NEVER,NOT SURE,REGULARLY,30,MODERATE
+SYN-0898,PUBLIC,True,True,False,True,False,True,False,False,False,False,OFTEN,True,True,True,False,False,NEVER,REGULARLY,SOMETIMES,28,MODERATE
+SYN-0899,PUBLIC,True,False,True,False,True,False,False,False,False,False,OFTEN,False,True,True,False,False,RARELY,SOMETIMES,REGULARLY,30,MODERATE
+SYN-0900,FRIENDS,False,False,True,True,True,False,True,False,False,False,RARELY,False,True,False,True,True,RARELY,REGULARLY,NEVER,31,MODERATE
+SYN-0901,PUBLIC,False,False,False,False,False,False,False,True,False,False,RARELY,True,False,False,True,False,SOMETIMES,SOMETIMES,REGULARLY,28,MODERATE
+SYN-0902,FRIENDS,True,False,False,False,False,False,False,False,False,True,NEVER,True,True,False,False,False,NEVER,SOMETIMES,SOMETIMES,27,MODERATE
+SYN-0903,FRIENDS,False,False,False,False,False,True,False,False,False,True,RARELY,True,True,False,True,True,RARELY,SOMETIMES,REGULARLY,30,MODERATE
+SYN-0904,FRIENDS,True,False,True,False,True,False,False,False,False,False,OFTEN,False,True,False,True,False,RARELY,REGULARLY,REGULARLY,31,MODERATE
+SYN-0905,PUBLIC,False,False,False,True,True,False,False,True,False,False,RARELY,False,False,False,False,False,NEVER,REGULARLY,SOMETIMES,29,MODERATE
+SYN-0906,PRIVATE,True,False,True,False,True,False,True,False,False,False,RARELY,False,False,False,False,False,RARELY,NEVER,SOMETIMES,32,MODERATE
+SYN-0907,PUBLIC,True,False,False,False,False,False,False,True,True,False,SOMETIMES,False,True,True,True,False,RARELY,NOT SURE,REGULARLY,31,MODERATE
+SYN-0908,PUBLIC,False,False,False,False,False,True,False,False,True,False,RARELY,False,False,False,False,False,NEVER,SOMETIMES,REGULARLY,29,MODERATE
+SYN-0909,FRIENDS,False,True,True,False,False,False,False,True,False,False,OFTEN,True,False,True,False,True,RARELY,REGULARLY,REGULARLY,32,MODERATE
+SYN-0910,FRIENDS,False,False,False,False,False,False,False,True,False,True,RARELY,True,True,False,False,False,RARELY,SOMETIMES,REGULARLY,27,MODERATE
+SYN-0911,FRIENDS,True,False,False,False,False,False,True,False,False,True,NEVER,True,False,False,True,True,RARELY,NOT SURE,SOMETIMES,27,MODERATE
+SYN-0912,FRIENDS,False,False,False,True,False,False,False,False,False,False,RARELY,False,True,False,False,True,NEVER,SOMETIMES,SOMETIMES,29,MODERATE
+SYN-0913,PRIVATE,False,False,True,False,False,False,False,False,False,False,RARELY,True,False,True,False,True,RARELY,REGULARLY,SOMETIMES,19,LOW
+SYN-0914,PUBLIC,False,False,False,False,True,False,True,False,True,False,NEVER,True,False,True,False,False,NEVER,NEVER,NOT SURE,28,MODERATE
+SYN-0915,FRIENDS,False,True,False,True,False,False,False,True,False,True,RARELY,False,False,False,False,False,NEVER,REGULARLY,REGULARLY,34,MODERATE
+SYN-0916,PRIVATE,False,False,False,False,True,True,False,False,False,False,NEVER,False,False,True,False,True,RARELY,SOMETIMES,SOMETIMES,27,MODERATE
+SYN-0917,FRIENDS,False,False,True,False,False,False,False,False,False,False,SOMETIMES,False,True,False,False,False,NEVER,SOMETIMES,NEVER,28,MODERATE
+SYN-0918,PUBLIC,True,False,False,True,False,False,True,False,True,False,SOMETIMES,False,False,True,True,False,NEVER,NOT SURE,REGULARLY,30,MODERATE
+SYN-0919,PUBLIC,False,False,True,False,False,False,False,False,False,False,RARELY,False,True,False,False,False,NEVER,SOMETIMES,SOMETIMES,26,MODERATE
+SYN-0920,PUBLIC,True,False,False,True,False,False,False,False,False,False,RARELY,False,False,False,False,True,RARELY,REGULARLY,SOMETIMES,28,MODERATE
+SYN-0921,PUBLIC,False,True,False,False,False,False,False,False,False,False,NEVER,True,True,True,False,True,NEVER,REGULARLY,REGULARLY,24,MODERATE
+SYN-0922,FRIENDS,False,False,False,False,True,False,False,False,False,False,OFTEN,False,True,False,False,True,RARELY,SOMETIMES,SOMETIMES,26,MODERATE
+SYN-0923,PUBLIC,False,False,False,False,False,False,False,False,False,False,SOMETIMES,False,True,False,False,True,RARELY,SOMETIMES,REGULARLY,33,MODERATE
+SYN-0924,PUBLIC,True,False,False,False,False,False,True,True,False,True,NEVER,False,False,True,True,True,RARELY,SOMETIMES,REGULARLY,28,MODERATE
+SYN-0925,PUBLIC,False,False,False,False,False,True,False,False,False,False,NEVER,True,False,False,True,False,RARELY,NOT SURE,SOMETIMES,27,MODERATE
+SYN-0926,FRIENDS,False,True,False,True,True,False,False,False,False,False,RARELY,True,True,True,False,False,NEVER,REGULARLY,NEVER,25,MODERATE
+SYN-0927,PUBLIC,False,False,False,False,False,False,False,False,False,False,RARELY,False,False,False,True,False,NEVER,SOMETIMES,SOMETIMES,23,MODERATE
+SYN-0928,PRIVATE,False,True,True,False,True,False,False,False,False,False,OFTEN,False,True,False,False,True,NEVER,NEVER,REGULARLY,27,MODERATE
+SYN-0929,PRIVATE,False,False,True,False,True,True,False,False,False,False,RARELY,False,True,True,False,False,RARELY,REGULARLY,SOMETIMES,22,MODERATE
+SYN-0930,FRIENDS,True,False,False,False,False,False,False,False,False,True,SOMETIMES,True,False,True,True,False,NEVER,NOT SURE,SOMETIMES,21,MODERATE
+SYN-0931,FRIENDS,False,False,False,False,False,False,False,False,True,False,OFTEN,False,False,False,False,False,RARELY,NOT SURE,SOMETIMES,30,MODERATE
+SYN-0932,PUBLIC,False,False,False,False,False,False,False,False,False,False,NEVER,False,True,True,True,False,RARELY,REGULARLY,NEVER,26,MODERATE
+SYN-0933,PUBLIC,False,False,False,True,False,False,False,True,False,False,RARELY,False,False,False,False,False,RARELY,SOMETIMES,REGULARLY,32,MODERATE
+SYN-0934,FRIENDS,False,False,False,False,False,False,True,False,True,False,SOMETIMES,True,False,False,False,False,RARELY,SOMETIMES,SOMETIMES,22,MODERATE
+SYN-0935,FRIENDS,False,False,False,False,True,False,False,False,True,False,SOMETIMES,False,False,False,True,False,NEVER,REGULARLY,SOMETIMES,22,MODERATE
+SYN-0936,PUBLIC,True,True,True,False,False,False,False,False,False,False,RARELY,True,False,False,True,False,NEVER,SOMETIMES,NEVER,28,MODERATE
+SYN-0937,PRIVATE,False,True,False,False,False,False,False,True,False,False,OFTEN,False,False,False,False,True,OFTEN,SOMETIMES,REGULARLY,28,MODERATE
+SYN-0938,PUBLIC,False,False,False,False,True,False,True,True,True,True,SOMETIMES,False,False,False,True,False,SOMETIMES,SOMETIMES,SOMETIMES,33,MODERATE
+SYN-0939,PRIVATE,False,False,False,False,True,False,False,False,True,True,NEVER,True,False,False,True,True,RARELY,REGULARLY,SOMETIMES,27,MODERATE
+SYN-0940,PUBLIC,False,True,False,True,True,False,False,False,False,True,RARELY,False,False,False,True,False,NEVER,REGULARLY,SOMETIMES,26,MODERATE
+SYN-0941,PRIVATE,False,False,True,True,False,False,False,False,False,False,SOMETIMES,False,True,False,False,True,NEVER,NOT SURE,REGULARLY,27,MODERATE
+SYN-0942,PUBLIC,False,False,False,False,False,False,False,False,False,False,RARELY,False,False,False,False,False,NEVER,SOMETIMES,NEVER,28,MODERATE
+SYN-0943,PUBLIC,False,False,False,False,False,False,True,True,False,False,NEVER,False,False,False,False,True,NEVER,SOMETIMES,REGULARLY,37,MODERATE
+SYN-0944,PRIVATE,False,True,False,False,False,False,True,False,False,False,SOMETIMES,False,False,False,True,False,OFTEN,NEVER,REGULARLY,24,MODERATE
+SYN-0945,PUBLIC,False,True,False,False,False,False,False,False,False,False,SOMETIMES,False,True,True,True,True,NEVER,SOMETIMES,REGULARLY,28,MODERATE
+SYN-0946,PRIVATE,True,True,True,False,False,False,False,False,True,False,SOMETIMES,True,False,False,True,False,NEVER,REGULARLY,SOMETIMES,30,MODERATE
+SYN-0947,FRIENDS,False,False,False,False,False,False,True,False,False,True,OFTEN,False,False,True,True,True,NEVER,SOMETIMES,REGULARLY,31,MODERATE
+SYN-0948,PUBLIC,False,True,False,False,True,False,False,False,True,True,NEVER,False,False,False,False,False,RARELY,NEVER,SOMETIMES,29,MODERATE
+SYN-0949,FRIENDS,False,True,False,False,True,False,False,False,False,True,RARELY,False,False,True,False,True,NEVER,REGULARLY,SOMETIMES,21,MODERATE
+SYN-0950,PUBLIC,False,False,True,False,True,False,False,False,False,False,NEVER,True,True,False,False,False,RARELY,REGULARLY,NEVER,28,MODERATE
+SYN-0951,FRIENDS,True,False,False,False,False,True,False,False,True,True,SOMETIMES,True,True,True,True,False,NEVER,SOMETIMES,REGULARLY,21,MODERATE
+SYN-0952,FRIENDS,False,False,False,False,True,False,False,False,False,False,NEVER,True,False,False,False,False,RARELY,REGULARLY,NEVER,24,MODERATE
+SYN-0953,PUBLIC,False,False,False,False,False,False,False,False,False,True,NEVER,False,False,False,False,True,NEVER,REGULARLY,REGULARLY,28,MODERATE
+SYN-0954,PUBLIC,False,False,False,False,False,False,False,False,False,False,SOMETIMES,False,False,False,False,False,RARELY,REGULARLY,SOMETIMES,21,MODERATE
+SYN-0955,PUBLIC,False,True,True,False,False,False,False,True,False,True,RARELY,False,False,False,False,False,NEVER,SOMETIMES,SOMETIMES,31,MODERATE
+SYN-0956,PUBLIC,False,False,False,False,False,True,False,False,True,True,SOMETIMES,True,True,False,True,True,NEVER,NEVER,NEVER,28,MODERATE
+SYN-0957,FRIENDS,True,False,False,False,False,False,False,False,True,True,SOMETIMES,False,False,False,True,False,NEVER,SOMETIMES,SOMETIMES,29,MODERATE
+SYN-0958,PRIVATE,False,False,False,False,False,False,False,False,True,False,SOMETIMES,False,False,True,False,True,RARELY,NEVER,SOMETIMES,24,MODERATE
+SYN-0959,PUBLIC,False,False,False,True,False,False,True,False,True,False,SOMETIMES,False,False,False,True,False,NEVER,SOMETIMES,REGULARLY,28,MODERATE
+SYN-0960,PUBLIC,False,True,False,False,False,False,True,False,False,False,RARELY,False,True,True,True,False,NEVER,NEVER,SOMETIMES,32,MODERATE
+SYN-0961,FRIENDS,False,False,False,True,False,False,False,True,True,False,RARELY,True,False,False,False,False,NEVER,REGULARLY,SOMETIMES,27,MODERATE
+SYN-0962,PUBLIC,False,False,True,False,False,False,False,False,False,True,SOMETIMES,True,False,False,True,True,RARELY,SOMETIMES,SOMETIMES,30,MODERATE
+SYN-0963,FRIENDS,False,False,False,False,False,False,False,False,True,False,RARELY,False,True,True,False,False,RARELY,SOMETIMES,REGULARLY,20,LOW
+SYN-0964,PUBLIC,False,False,True,False,True,False,True,False,False,False,RARELY,False,True,False,True,False,NEVER,REGULARLY,SOMETIMES,23,MODERATE
+SYN-0965,FRIENDS,False,False,True,False,True,False,False,False,False,False,SOMETIMES,False,False,True,False,True,RARELY,SOMETIMES,SOMETIMES,30,MODERATE
+SYN-0966,FRIENDS,False,False,False,False,False,False,False,False,False,False,RARELY,True,True,False,False,False,RARELY,NOT SURE,NEVER,24,MODERATE
+SYN-0967,PUBLIC,False,True,False,False,True,False,False,False,False,False,NEVER,True,False,False,True,False,NEVER,SOMETIMES,REGULARLY,29,MODERATE
+SYN-0968,FRIENDS,True,False,True,False,False,False,False,False,True,False,RARELY,True,False,True,True,False,OFTEN,REGULARLY,REGULARLY,31,MODERATE
+SYN-0969,PUBLIC,True,False,False,True,False,False,False,False,False,True,RARELY,False,False,True,False,False,NEVER,REGULARLY,NEVER,24,MODERATE
+SYN-0970,FRIENDS,False,True,False,False,False,False,True,False,False,False,RARELY,False,True,False,False,True,RARELY,REGULARLY,NEVER,26,MODERATE
+SYN-0971,FRIENDS,False,False,False,False,False,True,True,True,True,False,NEVER,False,False,False,False,False,NEVER,SOMETIMES,SOMETIMES,27,MODERATE
+SYN-0972,PUBLIC,False,False,False,False,False,False,False,True,False,True,NEVER,False,False,False,True,False,OFTEN,SOMETIMES,SOMETIMES,25,MODERATE
+SYN-0973,PUBLIC,False,False,False,False,True,False,False,True,False,False,NEVER,False,False,True,True,False,RARELY,SOMETIMES,NEVER,23,MODERATE
+SYN-0974,FRIENDS,False,True,False,True,False,False,False,True,True,False,NEVER,True,False,False,True,False,NEVER,REGULARLY,SOMETIMES,23,MODERATE
+SYN-0975,FRIENDS,False,False,False,False,False,False,True,False,False,True,OFTEN,True,False,False,True,False,NEVER,SOMETIMES,REGULARLY,28,MODERATE
+SYN-0976,PUBLIC,False,True,False,False,False,False,False,False,True,False,NEVER,False,True,True,False,False,SOMETIMES,REGULARLY,SOMETIMES,24,MODERATE
+SYN-0977,PUBLIC,False,False,False,False,False,True,False,True,True,False,OFTEN,False,False,True,True,False,SOMETIMES,REGULARLY,REGULARLY,27,MODERATE
+SYN-0978,PUBLIC,False,True,True,False,False,True,True,True,False,False,RARELY,False,False,True,False,False,NEVER,SOMETIMES,SOMETIMES,38,MODERATE
+SYN-0979,PUBLIC,True,True,False,False,True,False,True,False,True,False,RARELY,False,False,False,False,True,NEVER,REGULARLY,REGULARLY,32,MODERATE
+SYN-0980,PRIVATE,True,False,True,False,True,True,True,False,False,False,SOMETIMES,False,True,False,False,False,RARELY,NEVER,NEVER,32,MODERATE
+SYN-0981,FRIENDS,True,True,True,False,False,True,False,False,False,False,RARELY,True,False,True,False,False,SOMETIMES,SOMETIMES,SOMETIMES,32,MODERATE
+SYN-0982,PUBLIC,False,False,False,False,False,True,False,False,True,True,NEVER,False,True,True,False,False,NEVER,NEVER,REGULARLY,29,MODERATE
+SYN-0983,FRIENDS,False,False,False,False,False,False,False,False,True,False,RARELY,False,False,False,False,True,RARELY,REGULARLY,REGULARLY,29,MODERATE
+SYN-0984,PRIVATE,False,False,False,True,True,False,True,False,True,False,NEVER,True,False,False,True,False,RARELY,REGULARLY,REGULARLY,21,MODERATE
+SYN-0985,PUBLIC,False,False,False,False,False,False,False,True,False,False,SOMETIMES,False,False,False,True,False,NEVER,SOMETIMES,NOT SURE,30,MODERATE
+SYN-0986,FRIENDS,True,False,False,False,False,False,False,False,False,False,NEVER,False,False,False,True,False,SOMETIMES,REGULARLY,REGULARLY,27,MODERATE
+SYN-0987,FRIENDS,False,False,False,False,False,False,False,False,False,False,NEVER,False,False,True,False,False,SOMETIMES,NEVER,SOMETIMES,27,MODERATE
+SYN-0988,PUBLIC,False,False,False,False,False,False,True,True,False,False,SOMETIMES,False,False,True,False,True,NEVER,SOMETIMES,NEVER,38,MODERATE
+SYN-0989,FRIENDS,False,False,False,False,False,True,True,False,False,False,SOMETIMES,True,True,True,True,False,SOMETIMES,NEVER,REGULARLY,24,MODERATE
+SYN-0990,PRIVATE,False,False,False,False,False,False,False,False,True,False,NEVER,False,False,False,True,False,RARELY,REGULARLY,NEVER,19,LOW
+SYN-0991,PUBLIC,False,False,False,False,False,False,False,False,True,False,RARELY,False,True,False,False,True,NEVER,NOT SURE,REGULARLY,27,MODERATE
+SYN-0992,PUBLIC,False,False,False,False,False,False,False,True,False,False,SOMETIMES,True,False,False,False,False,RARELY,REGULARLY,SOMETIMES,21,MODERATE
+SYN-0993,PUBLIC,False,False,True,False,True,False,False,True,True,False,RARELY,False,False,False,True,False,SOMETIMES,REGULARLY,REGULARLY,34,MODERATE
+SYN-0994,PUBLIC,False,False,True,False,False,False,True,False,True,False,SOMETIMES,True,True,True,False,False,NEVER,NEVER,SOMETIMES,28,MODERATE
+SYN-0995,FRIENDS,False,False,False,False,False,False,False,True,False,False,RARELY,False,True,False,False,False,SOMETIMES,NEVER,REGULARLY,22,MODERATE
+SYN-0996,PUBLIC,False,False,False,False,False,True,False,True,False,False,RARELY,False,True,False,False,False,NEVER,NEVER,NOT SURE,26,MODERATE
+SYN-0997,FRIENDS,False,True,False,False,True,False,False,False,False,True,SOMETIMES,False,False,False,False,False,RARELY,REGULARLY,REGULARLY,31,MODERATE
+SYN-0998,PUBLIC,False,False,True,False,False,True,False,False,False,False,RARELY,False,False,False,False,False,RARELY,REGULARLY,REGULARLY,23,MODERATE
+SYN-0999,PUBLIC,False,False,True,False,False,True,False,True,False,False,RARELY,False,True,False,False,False,OFTEN,REGULARLY,REGULARLY,32,MODERATE
+SYN-1000,FRIENDS,False,False,False,True,True,False,False,False,False,False,SOMETIMES,False,False,True,False,False,RARELY,SOMETIMES,SOMETIMES,28,MODERATE
